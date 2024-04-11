@@ -1,0 +1,5510 @@
+[
+  {
+    "question": "Zgodnie z kolejno\u015bci\u0105 pierwsze\u0144stwa \u0142\u0105czno\u015bci:",
+    "options": [
+      {
+        "text": "\u0142\u0105czno\u015b\u0107 ostrzegawcza ma pierwsze\u0144stwo przed \u0142\u0105czno\u015bci\u0105 piln\u0105",
+        "correct": false
+      },
+      {
+        "text": "\u0142\u0105czno\u015b\u0107 ostrzegawcza ma pierwsze\u0144stwo przed \u0142\u0105czno\u015bci\u0105 publiczna",
+        "correct": true
+      },
+      {
+        "text": "\u0142\u0105czno\u015b\u0107 pilna ma pierwsze\u0144stwo przed \u0142\u0105czno\u015bci\u0105 w niebezpiecze\u0144stwie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u0141\u0105czno\u015b\u0107 publiczna to \u0142\u0105czno\u015b\u0107:",
+    "options": [
+      {
+        "text": "dla uzyskania porady medycznej",
+        "correct": false
+      },
+      {
+        "text": "pomi\u0119dzy stacj\u0105 statkow\u0105 i stacj\u0105 nadbrze\u017cn\u0105",
+        "correct": true
+      },
+      {
+        "text": "do przekazywania ostrze\u017ce\u0144",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja nadbrze\u017cna to stacja:",
+    "options": [
+      {
+        "text": "w s\u0142u\u017cbie radiokomunikacyjnej l\u0105dowej, prowadz\u0105ca \u0142\u0105czno\u015b\u0107 w rejonie wybrze\u017ca morskiego.",
+        "correct": false
+      },
+      {
+        "text": "w s\u0142u\u017cbie radiokomunikacyjnej lotniczej, prowadz\u0105ca \u0142\u0105czno\u015b\u0107 w rejonie wybrze\u017ca morskiego",
+        "correct": false
+      },
+      {
+        "text": "w s\u0142u\u017cbie radiokomunikacyjnej ruchomej morskiej, prowadz\u0105ca \u0142\u0105czno\u015b\u0107 w relacji statek-brzeg, brzeg-statek",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ratowniczy O\u015brodek Koordynacyjny odpowiedzialny jest za:",
+    "options": [
+      {
+        "text": "prowadzenie \u0142\u0105czno\u015bci na miejscu akcji ratowniczej",
+        "correct": false
+      },
+      {
+        "text": "przygotowanie s\u0142u\u017cb portowych",
+        "correct": false
+      },
+      {
+        "text": "kierowanie akcj\u0105 SAR",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pasmo VHF obejmuje cz\u0119stotliwo\u015bci:",
+    "options": [
+      {
+        "text": "3 - 30MHz",
+        "correct": false
+      },
+      {
+        "text": "30 - 300 MHz",
+        "correct": true
+      },
+      {
+        "text": "10 - 100 MHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fale z pasma VHF to inaczej fale:",
+    "options": [
+      {
+        "text": "Milimetrowe",
+        "correct": false
+      },
+      {
+        "text": "Centymetrowe",
+        "correct": false
+      },
+      {
+        "text": "Metrowe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Morski zakres V obejmuje cz\u0119stotliwo\u015bci:",
+    "options": [
+      {
+        "text": "10 - 30MHz",
+        "correct": false
+      },
+      {
+        "text": "300 - 3000 kHz",
+        "correct": false
+      },
+      {
+        "text": "156 - 174 MHz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefoniczna stacja statkowa mo\u017ce by\u0107 identyfikowana przez:",
+    "options": [
+      {
+        "text": "numer seryjny radiotelefonu VHF",
+        "correct": false
+      },
+      {
+        "text": "znak wywo\u0142awczy lub nazw\u0119 stacji",
+        "correct": true
+      },
+      {
+        "text": "nazw\u0119 armatora/w\u0142a\u015bciciela",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Simpleks to spos\u00f3b pracy w kanale radiowym, przy kt\u00f3rym:",
+    "options": [
+      {
+        "text": "nadawanie jest mo\u017cliwe jednocze\u015bnie w obu kierunkach \u0142\u0105czno\u015bci",
+        "correct": false
+      },
+      {
+        "text": "obie stacje pracuj\u0105 simpleksem wykorzystuj\u0105c kana\u0142 dupleksowy",
+        "correct": false
+      },
+      {
+        "text": "nadawanie jest mo\u017cliwe jedynie na zmian\u0119 w ka\u017cdym kierunku \u0142\u0105czno\u015bci",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Semidupleks to spos\u00f3b pracy w kanale radiowym, przy kt\u00f3rym:",
+    "options": [
+      {
+        "text": "nadawanie jest mo\u017cliwe jednocze\u015bnie w obu kierunkach \u0142\u0105czno\u015bci",
+        "correct": false
+      },
+      {
+        "text": "nadawanie jest mo\u017cliwe jedynie na zmian\u0119 w ka\u017cdym kierunku \u0142\u0105czno\u015bci",
+        "correct": false
+      },
+      {
+        "text": "jedna stacja pracuje simpleksem a druga dupleksem",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dupleks to spos\u00f3b pracy w kanale radiowym, przy kt\u00f3rym:",
+    "options": [
+      {
+        "text": "nadawanie jest mo\u017cliwe jednocze\u015bnie w obu kierunkach \u0142\u0105czno\u015bci",
+        "correct": true
+      },
+      {
+        "text": "nadawanie jest mo\u017cliwe jedynie na zmian\u0119 w ka\u017cdym kierunku \u0142\u0105czno\u015bci",
+        "correct": false
+      },
+      {
+        "text": "jedna stacja pracuje simpleksem a druga dupleksem",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 simpleksowy to kana\u0142, w kt\u00f3rym:",
+    "options": [
+      {
+        "text": "nadajemy i odbieramy na tej samej cz\u0119stotliwo\u015bci",
+        "correct": true
+      },
+      {
+        "text": "tylko nadajemy na okre\u015blonej cz\u0119stotliwo\u015bci",
+        "correct": false
+      },
+      {
+        "text": "tylko odbieramy na okre\u015blonej cz\u0119stotliwo\u015bci",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 dupleksowy to kana\u0142, w kt\u00f3rym:",
+    "options": [
+      {
+        "text": "nadajemy i odbieramy na tej samej cz\u0119stotliwo\u015bci",
+        "correct": false
+      },
+      {
+        "text": "tylko nadajemy na okre\u015blonej cz\u0119stotliwo\u015bci",
+        "correct": false
+      },
+      {
+        "text": "nadajemy i odbieramy na r\u00f3\u017cnych cz\u0119stotliwo\u015bciach",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 16 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "Dupleksowym",
+        "correct": false
+      },
+      {
+        "text": "Jednocz\u0119stotliwo\u015bciowym",
+        "correct": true
+      },
+      {
+        "text": "Dwucz\u0119stotliwo\u015bciowym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 6 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "Dupleksowym",
+        "correct": false
+      },
+      {
+        "text": "Dwucz\u0119stotliwo\u015bciowym",
+        "correct": false
+      },
+      {
+        "text": "Simpleksowym",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 15 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "Dupleksowym",
+        "correct": false
+      },
+      {
+        "text": "Jednoczestotliwo\u015bciowym",
+        "correct": true
+      },
+      {
+        "text": "Semidupleksowym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 13 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "Dupleksowym",
+        "correct": false
+      },
+      {
+        "text": "Duosimpleksowym",
+        "correct": false
+      },
+      {
+        "text": "Simpleksowym",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 70 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "Dupleksowym",
+        "correct": false
+      },
+      {
+        "text": "Jednocz\u0119stotliwo\u015bciowym",
+        "correct": true
+      },
+      {
+        "text": "Semidupleksowym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, do wywo\u0142a\u0144 og\u00f3lnych DSC mo\u017cna stosowa\u0107 kana\u0142:",
+    "options": [
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, do wywo\u0142a\u0144 mi\u0119dzystatkowych DSC mo\u017cna stosowa\u0107 kana\u0142:",
+    "options": [
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "27",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Znak wywo\u0142awczy stacji statkowej to identyfikacja stosowana w \u0142\u0105czno\u015bci:",
+    "options": [
+      {
+        "text": "Jedynie publicznej",
+        "correct": false
+      },
+      {
+        "text": "Radiotelefonicznej",
+        "correct": true
+      },
+      {
+        "text": "DSC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "MMSI to identyfikacja stosowana w \u0142\u0105czno\u015bci:",
+    "options": [
+      {
+        "text": "mi\u0119dzystatkowej i ze stacj\u0105 nadbrze\u017cn\u0105",
+        "correct": true
+      },
+      {
+        "text": "Radiotelefonicznej",
+        "correct": false
+      },
+      {
+        "text": "jedynie mi\u0119dzystatkowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Znak wywo\u0142awczy stacji statkowej to identyfikacja przyznawana:",
+    "options": [
+      {
+        "text": "przez w\u0142a\u015bciciela jednostki",
+        "correct": false
+      },
+      {
+        "text": "tylko do \u0142\u0105czno\u015bci bezpiecze\u0144stwa",
+        "correct": false
+      },
+      {
+        "text": "przez administracj\u0119 krajow\u0105 z mi\u0119dzynarodowej serii znak\u00f3w wywo\u0142awczych",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Obszar morza, w kt\u00f3rym zapewniona jest pewna \u0142\u0105czno\u015b\u0107 DSC i radiotelefoniczna, przynajmniej z jedn\u0105 stacj\u0105 brzegow\u0105 VHF to obszar",
+    "options": [
+      {
+        "text": "AOR",
+        "correct": false
+      },
+      {
+        "text": "A3",
+        "correct": false
+      },
+      {
+        "text": "A1",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ratowniczy O\u015brodek Koordynacyjny oznacza si\u0119 skr\u00f3tem:",
+    "options": [
+      {
+        "text": "RSC",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": false
+      },
+      {
+        "text": "RCC",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Podcentrum Ratownicze oznacza si\u0119 skr\u00f3tem:",
+    "options": [
+      {
+        "text": "RSC",
+        "correct": true
+      },
+      {
+        "text": "OSC",
+        "correct": false
+      },
+      {
+        "text": "RCC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacj\u0119 nadbrze\u017cn\u0105 zaanga\u017cowan\u0105 w akcj\u0119 SAR oznacza si\u0119 skr\u00f3tem:",
+    "options": [
+      {
+        "text": "RSC",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": false
+      },
+      {
+        "text": "CRS",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jednostk\u0119 koordynuj\u0105c\u0105 poszukiwanie i ratowanie na miejscu akcji oznacza si\u0119 skr\u00f3tem:",
+    "options": [
+      {
+        "text": "RSC",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": true
+      },
+      {
+        "text": "RCC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zalecanym kana\u0142em VHF do \u0142\u0105czno\u015bci w akcjach SAR jest kana\u0142:",
+    "options": [
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "69",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Znak wywo\u0142awczy polskiej stacji statkowej mo\u017ce rozpoczyna\u0107 si\u0119 od jednego z prefiks\u00f3w:",
+    "options": [
+      {
+        "text": "GD, SZ, KO, PL, EU",
+        "correct": false
+      },
+      {
+        "text": "PLI-PL9",
+        "correct": false
+      },
+      {
+        "text": "HF, SN, SO, SP, SQ, SR. 3Z",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Alarmowanie w niebezpiecze\u0144stwie zawiera:",
+    "options": [
+      {
+        "text": "identyfikacj\u0119 i pozycj\u0119 jednostki zagro\u017conej",
+        "correct": true
+      },
+      {
+        "text": "identyfikacj\u0119, pozycj\u0119 jednostki zagro\u017conej i liczb\u0119 os\u00f3b na pok\u0142adzie jednostki",
+        "correct": false
+      },
+      {
+        "text": "znak wywo\u0142awczy, pozycj\u0119 jednostki zagro\u017conej i liczb\u0119 rannych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, do radiotelefonicznych wywo\u0142a\u0144 og\u00f3lnych mo\u017cna stosowa\u0107 kana\u0142:",
+    "options": [
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      },
+      {
+        "text": "66",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Alarmowanie w niebezpiecze\u0144stwie DSC adresowane jest:",
+    "options": [
+      {
+        "text": "jedynie do najbli\u017cszej stacji nadbrze\u017cnej",
+        "correct": false
+      },
+      {
+        "text": "do wszystkich stacji",
+        "correct": true
+      },
+      {
+        "text": "jedynie do najbli\u017cszej stacji statkowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operator stacji statkowej po odbiorze po\u015bredniego alarmowania DSC nadanego przez stacj\u0119 nadbrze\u017cn\u0105 powinien:",
+    "options": [
+      {
+        "text": "natychmiast potwierdzi\u0107 odbi\u00f3r za pomoc\u0105 DSC",
+        "correct": false
+      },
+      {
+        "text": "potwierdzi\u0107 odbi\u00f3r za pomoc\u0105 radiotelefonii",
+        "correct": true
+      },
+      {
+        "text": "tylko dokona\u0107 zapisu w dzienniku radiowym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operator stacji statkowej mo\u017ce nada\u0107 po\u015brednie alarmowanie w niebezpiecze\u0144stwie w sytuacji, gdy:",
+    "options": [
+      {
+        "text": "jednostka zagro\u017cona sama nie jest w stanie nada\u0107 alarmowania",
+        "correct": true
+      },
+      {
+        "text": "tylko na pro\u015bb\u0119 stacji zagro\u017conej",
+        "correct": false
+      },
+      {
+        "text": "tylko na polecenie RCC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, operator stacji statkowej mo\u017ce nada\u0107 po\u015brednie alarmowanie DSC po odbiorze alarmowania DSC:",
+    "options": [
+      {
+        "text": "nie wolno mu tego uczyni\u0107",
+        "correct": true
+      },
+      {
+        "text": "tylko na pro\u015bb\u0119 stacji zagro\u017conej",
+        "correct": false
+      },
+      {
+        "text": "tylko na pro\u015bb\u0119 RCC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, operator stacji statkowej mo\u017ce nada\u0107 potwierdzenie odbioru alarmowania DSC:",
+    "options": [
+      {
+        "text": "po 3 minutach od odebrania alarmowania",
+        "correct": false
+      },
+      {
+        "text": "Po 4 minutach od odebrania alarmowania",
+        "correct": false
+      },
+      {
+        "text": "Po 5 minutach od odebrania alarmowania i powiadomieniu o tym stacji nadbrze\u017cnej",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, operator stacji statkowej mo\u017ce nada\u0107 potwierdzenie odbioru alarmowania DSC za pomoc\u0105:",
+    "options": [
+      {
+        "text": "tylko DSC",
+        "correct": false
+      },
+      {
+        "text": "radiotelefonii lub DSC",
+        "correct": true
+      },
+      {
+        "text": "tylko radiotelefonii",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operator stacji nadbrze\u017cnej mo\u017ce nada\u0107 potwierdzenie odbioru alarmowania DSC za pomoc\u0105:",
+    "options": [
+      {
+        "text": "radiotelefonii lub DSC",
+        "correct": false
+      },
+      {
+        "text": "tylko DSC",
+        "correct": true
+      },
+      {
+        "text": "tylko radiotelefonii",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przed ka\u017cdym wywo\u0142aniem poprzedzaj\u0105cym korespondencj\u0119 w niebezpiecze\u0144stwie nale\u017cy u\u017cy\u0107 sygna\u0142u niebezpiecze\u0144stwa:",
+    "options": [
+      {
+        "text": "PANPAN",
+        "correct": false
+      },
+      {
+        "text": "MAYDAY",
+        "correct": true
+      },
+      {
+        "text": "DISTRESS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacj\u0119 zak\u0142\u00f3caj\u0105c\u0105 korespondencj\u0119 w niebezpiecze\u0144stwie mo\u017ce ucisza\u0107:",
+    "options": [
+      {
+        "text": "Tylko RCC",
+        "correct": false
+      },
+      {
+        "text": "ka\u017cda stacja statkowa i nadbrze\u017cna",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142em uciszania stacji zak\u0142\u00f3caj\u0105cej korespondencje w niebezpiecze\u0144stwie jest sygna\u0142:",
+    "options": [
+      {
+        "text": "PANPAN",
+        "correct": false
+      },
+      {
+        "text": "SEELONCE MAYDAY",
+        "correct": true
+      },
+      {
+        "text": "MAYDAY",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Informacj\u0119 o zako\u0144czeniu korespondencji w niebezpiecze\u0144stwie mo\u017ce nada\u0107:",
+    "options": [
+      {
+        "text": "tylko RCC",
+        "correct": true
+      },
+      {
+        "text": "ka\u017cda stacja statkowa i nadbrze\u017cna",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142em zako\u0144czenia korespondencji w niebezpiecze\u0144stwie jest sygna\u0142:",
+    "options": [
+      {
+        "text": "PANPAN",
+        "correct": false
+      },
+      {
+        "text": "SEELONCE MAYDAY",
+        "correct": false
+      },
+      {
+        "text": "SEELONCE FEENEE",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Korespondencj\u0105 na miejscu akcji ratunkowej kieruje:",
+    "options": [
+      {
+        "text": "RCC",
+        "correct": false
+      },
+      {
+        "text": "wy\u0142\u0105cznie stacja nadbrze\u017cna",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Korespondencj\u0105 koordynacyjn\u0105 SAR kieruje:",
+    "options": [
+      {
+        "text": "wy\u0142\u0105cznie stacja zagro\u017cona",
+        "correct": false
+      },
+      {
+        "text": "OSC",
+        "correct": true
+      },
+      {
+        "text": "wy\u0142\u0105cznie stacja nadbrze\u017cna",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u0141\u0105czno\u015b\u0107 piln\u0105 stosuje si\u0119 dla uzyskania:",
+    "options": [
+      {
+        "text": "porady i pomocy medycznej",
+        "correct": true
+      },
+      {
+        "text": "pomocy nawigacyjnej",
+        "correct": false
+      },
+      {
+        "text": "ostrze\u017ce\u0144 meteorologicznych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, wywo\u0142anie pilne DSC mo\u017cna nada\u0107 na kanale:",
+    "options": [
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Wywo\u0142anie pilne DSC powinno zawiera\u0107 kategori\u0119:",
+    "options": [
+      {
+        "text": "URGENCY",
+        "correct": true
+      },
+      {
+        "text": "SAFETY",
+        "correct": false
+      },
+      {
+        "text": "DISTRESS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przy braku potwierdzenia odbioru wywo\u0142ania pilnego DSC do jednej stacji, mo\u017ce by\u0107 ono powt\u00f3rzone po:",
+    "options": [
+      {
+        "text": "3 a nast\u0119pnie 10 minutach",
+        "correct": false
+      },
+      {
+        "text": "5 a nast\u0119pnie 10 minutach",
+        "correct": false
+      },
+      {
+        "text": "5 a nast\u0119pnie 15 minutach",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefonicznym sygna\u0142em pilno\u015bci jest sygna\u0142:",
+    "options": [
+      {
+        "text": "URGENCY",
+        "correct": false
+      },
+      {
+        "text": "PAN PAN",
+        "correct": true
+      },
+      {
+        "text": "DISTRESS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W radiotelefonii sygna\u0142 pilno\u015bci wymawia si\u0119:",
+    "options": [
+      {
+        "text": "1 raz",
+        "correct": false
+      },
+      {
+        "text": "2 razy",
+        "correct": false
+      },
+      {
+        "text": "3 razy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u0141\u0105czno\u015b\u0107 ostrzegawcz\u0105 stosuje si\u0119 dla:",
+    "options": [
+      {
+        "text": "nadania porady medycznej",
+        "correct": false
+      },
+      {
+        "text": "odbioru ostrze\u017ce\u0144 pogodowych",
+        "correct": true
+      },
+      {
+        "text": "nadania alarmowania w niebezpiecze\u0144stwie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, wywo\u0142anie ostrzegawcze DSC mo\u017cna nada\u0107 na kanale:",
+    "options": [
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Wywo\u0142anie ostrzegawcze DSC powinno zawiera\u0107 kategorie:",
+    "options": [
+      {
+        "text": "URGENCY",
+        "correct": false
+      },
+      {
+        "text": "SAFETY",
+        "correct": true
+      },
+      {
+        "text": "DISTRESS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefonicznym sygna\u0142em ostrzegawczym jest sygna\u0142:",
+    "options": [
+      {
+        "text": "URGENCY",
+        "correct": false
+      },
+      {
+        "text": "PAN PAN",
+        "correct": false
+      },
+      {
+        "text": "SECURITE",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W radiotelefonii sygna\u0142 ostrzegawczy wymawia si\u0119",
+    "options": [
+      {
+        "text": "1 raz",
+        "correct": false
+      },
+      {
+        "text": "2 razy",
+        "correct": false
+      },
+      {
+        "text": "3 razy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi urz\u0105dzenie DSC nie jest pod\u0142\u0105czone do urz\u0105dze\u0144 nawigacyjnych, operator powinien wprowadza\u0107 do niego aktualn\u0105 pozycj\u0119 statku co najmniej:",
+    "options": [
+      {
+        "text": "Co 1 godzin\u0119",
+        "correct": false
+      },
+      {
+        "text": "2 razy na dob\u0119",
+        "correct": false
+      },
+      {
+        "text": "Co 4 godziny",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, radiotelefoniczne wezwanie w niebezpiecze\u0144stwie powinno by\u0107 nadane na kanale:",
+    "options": [
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wezwanie w niebezpiecze\u0144stwie nadane na kanale 16 VHF powinno rozpoczyna\u0107 si\u0119 od wywo\u0142ania zawieraj\u0105cego sygna\u0142 niebezpiecze\u0144stwa MAYDAY wym\u00f3wiony:",
+    "options": [
+      {
+        "text": "1 raz",
+        "correct": false
+      },
+      {
+        "text": "2 razy",
+        "correct": false
+      },
+      {
+        "text": "3 razy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Korespondencja w niebezpiecze\u0144stwie nadana na kanale 16 VHF powinna rozpoczyna\u0107 si\u0119 od sygna\u0142u niebezpiecze\u0144stwa MAYDAY wym\u00f3wionego:",
+    "options": [
+      {
+        "text": "1 raz",
+        "correct": true
+      },
+      {
+        "text": "2 razy",
+        "correct": false
+      },
+      {
+        "text": "3 razy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Potwierdzenie odbioru zawiadomienia w niebezpiecze\u0144stwie nadanego na kanale 16 VHF powinno by\u0107 nadane na kanale:",
+    "options": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Potwierdzenie odbioru zawiadomienia w niebezpiecze\u0144stwie nadane na kanale 16 VHF powinno rozpoczyna\u0107 si\u0119 od sygna\u0142u niebezpiecze\u0144stwa MAYDAY wym\u00f3wionego:",
+    "options": [
+      {
+        "text": "1 raz",
+        "correct": true
+      },
+      {
+        "text": "2 razy",
+        "correct": false
+      },
+      {
+        "text": "3 razy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nadanie radiotelefonicznego zawiadomienia o niebezpiecze\u0144stwie przez stacj\u0119 w nim nie b\u0119d\u0105c\u0105 powinno by\u0107 poprzedzone sygna\u0142em:",
+    "options": [
+      {
+        "text": "MAYDAY",
+        "correct": false
+      },
+      {
+        "text": "MAYDAY MAYDAY MAYDAY",
+        "correct": false
+      },
+      {
+        "text": "MAYDAY RELAY MAYDAY RELAY MAYDAY RELAY",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 pilno\u015bci PAN PAN nale\u017cy stosowa\u0107 przed wywo\u0142aniem dotycz\u0105cym:",
+    "options": [
+      {
+        "text": "wypadni\u0119cia cz\u0142owieka za burt\u0119",
+        "correct": false
+      },
+      {
+        "text": "uzyskania porady medycznej",
+        "correct": true
+      },
+      {
+        "text": "uzyskania ostrze\u017cenia nawigacyjnego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi stacja statkowa VHF nie posiada urz\u0105dzenia DSC, wywo\u0142anie pilne (PAN PAN) powinno by\u0107 nadane na kanale:",
+    "options": [
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 ostrzegawczy SECURITE nale\u017cy stosowa\u0107 przed wywo\u0142aniem dotycz\u0105cym:",
+    "options": [
+      {
+        "text": "wypadni\u0119cia cz\u0142owieka za burt\u0119",
+        "correct": false
+      },
+      {
+        "text": "uzyskania porady medycznej",
+        "correct": false
+      },
+      {
+        "text": "nadania ostrze\u017cenia",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi stacja statkowa VHF nie posiada urz\u0105dzenia DSC, wywo\u0142anie ostrzegawcze (SECURITE) powinno by\u0107 nadane na kanale:",
+    "options": [
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 75 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci w niebezpiecze\u0144stwie",
+        "correct": false
+      },
+      {
+        "text": "zabronionym dla zwyk\u0142ej \u0142\u0105czno\u015bci publicznej",
+        "correct": true
+      },
+      {
+        "text": "Bezpiecze\u0144stwa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 76 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci w niebezpiecze\u0144stwie",
+        "correct": false
+      },
+      {
+        "text": "zabronionym dla zwyk\u0142ej \u0142\u0105czno\u015bci publicznej",
+        "correct": true
+      },
+      {
+        "text": "Bezpiecze\u0144stwa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 15 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci w niebezpiecze\u0144stwie",
+        "correct": false
+      },
+      {
+        "text": "zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "do \u0142\u0105czno\u015bci wewn\u0105trzstatkowej z moc\u0105 zredukowan\u0105 do 1 W",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 17 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci wewn\u0105trzstatkowej z moc\u0105 zredukowan\u0105 do 1 W",
+        "correct": true
+      },
+      {
+        "text": "zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "do \u0142\u0105czno\u015bci w niebezpiecze\u0144stwie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 13 VHF w pierwszej kolejno\u015bci jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci zwi\u0105zanej z bezpiecze\u0144stwem \u017ceglugi",
+        "correct": true
+      },
+      {
+        "text": "B. zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "wy\u0142\u0105cznie do \u0142\u0105czno\u015bci mi\u0119dzystatkowej z moc\u0105 zredukowan\u0105 do 1 W",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 6 VHF w pierwszej kolejno\u015bci jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci zwi\u0105zanej z bezpiecze\u0144stwem \u017ceglugi",
+        "correct": false
+      },
+      {
+        "text": "zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "do \u0142\u0105czno\u015bci SAR z samolotami",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 16 VHF w pierwszej kolejno\u015bci jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci w niebezpiecze\u0144stwie",
+        "correct": true
+      },
+      {
+        "text": "zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "do \u0142\u0105czno\u015bci mi\u0119dzystatkowej z moc\u0105 zredukowan\u0105 do I W",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142 70 VHF jest kana\u0142em:",
+    "options": [
+      {
+        "text": "do \u0142\u0105czno\u015bci radiotelefonicznej",
+        "correct": false
+      },
+      {
+        "text": "zabronionym dla \u0142\u0105czno\u015bci publicznej",
+        "correct": false
+      },
+      {
+        "text": "do alarmowania w niebezpiecze\u0144stwie",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kana\u0142y \u201eameryka\u0144skie\" (US):",
+    "options": [
+      {
+        "text": "mo\u017cna wykorzystywa\u0107 tylko do bezpiecze\u0144stwem \u017ceglugi",
+        "correct": false
+      },
+      {
+        "text": "s\u0105 zabronione na Ba\u0142tyku",
+        "correct": true
+      },
+      {
+        "text": "nie s\u0105 zabronione na wodach Unii Europejskiej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Gdy jednostka jest w morzu, testowanie wewn\u0119trzne urz\u0105dzenia VHF DSC powinno by\u0107 przeprowadzone:",
+    "options": [
+      {
+        "text": "Codziennie",
+        "correct": true
+      },
+      {
+        "text": "dwa razy w tygodniu",
+        "correct": false
+      },
+      {
+        "text": "raz w miesi\u0105cu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, testowanie urz\u0105dzenie DSC polega na przeprowadzeniu testu:",
+    "options": [
+      {
+        "text": "\u201ewewn\u0119trznego i zewn\u0119trznego\"",
+        "correct": true
+      },
+      {
+        "text": "tylko \u201ewewn\u0119trznego\"",
+        "correct": false
+      },
+      {
+        "text": "\u201ewewn\u0119trznego albo zewn\u0119trznego\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Testowanie \u201ezewn\u0119trzne\" urz\u0105dzenia DSC w zakresie VHF powinno by\u0107 przeprowadzane:",
+    "options": [
+      {
+        "text": "Codziennie",
+        "correct": false
+      },
+      {
+        "text": "zabronione jest takie testowanie",
+        "correct": false
+      },
+      {
+        "text": "Raz w tygodniu",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W zakresie VHF, radiotelefoniczne odwo\u0142anie fa\u0142szywego alarmowania DSC powinno by\u0107 nadane na kanale:",
+    "options": [
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Odwo\u0142anie fa\u0142szywego alarmowania nadanego za pomoc\u0105 DSC powinno by\u0107 skierowane:",
+    "options": [
+      {
+        "text": "do najbli\u017cszej stacji nadbrze\u017cnej",
+        "correct": false
+      },
+      {
+        "text": "do najbli\u017cszej stacji statkowej",
+        "correct": false
+      },
+      {
+        "text": "do wszystkich stacji",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Odwo\u0142anie fa\u0142szywego alarmowania nadanego za pomoc\u0105 EPIRB powinno by\u0107 skierowane do:",
+    "options": [
+      {
+        "text": "stacji nadbrze\u017cnej",
+        "correct": true
+      },
+      {
+        "text": "najbli\u017cszej stacji statkowej",
+        "correct": false
+      },
+      {
+        "text": "wszystkich stacji",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Odwo\u0142uj\u0105c fa\u0142szywe alarmowanie nale\u017cy poda\u0107 nast\u0119puj\u0105ce informacje:",
+    "options": [
+      {
+        "text": "Pozycj\u0119 jednostki, rodzaj odwo\u0142ywanego alarmowania, godzin\u0119 nadania i odwo\u0142ania fa\u0142szywego alarmowania",
+        "correct": true
+      },
+      {
+        "text": "rodzaj odwo\u0142ywanego alarmowania, godzin\u0119 nadania i ostatni port postoju jednostki",
+        "correct": false
+      },
+      {
+        "text": "tylko godzin\u0119 nadania fa\u0142szywego alarmowania i ostatni port postoju jednostki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dla radiotelefon\u00f3w osobistych (przeno\u015bnych), wykorzystywanych w s\u0142u\u017cbie radiokomunikacyjnej morskiej, posiadaj\u0105cych DSC, nadaje si\u0119 numer identyfikacyjny:",
+    "options": [
+      {
+        "text": "taki sam jak MMSI jednostki p\u0142ywaj\u0105cej, na kt\u00f3rej aktualnie jest wykorzystywany",
+        "correct": false
+      },
+      {
+        "text": "dziewi\u0119ciocyfrowy o postaci: 8MIDXXXXX, gdzie MID to trzycyfrowy kod kraju, X to cyfra od 0 do 9",
+        "correct": true
+      },
+      {
+        "text": "dziewi\u0119ciocyfrowy, okre\u015blany przez producenta urz\u0105dzenia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nadaj\u0105c wywo\u0142anie publiczne DSC nale\u017cy wybra\u0107 priorytet (kategorie):",
+    "options": [
+      {
+        "text": "DISTRESS",
+        "correct": false
+      },
+      {
+        "text": "URGENCY",
+        "correct": false
+      },
+      {
+        "text": "ROUTINE",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa VHF nadaj\u0105c wywo\u0142anie publiczne DSC do innej stacji statkowej powinna u\u017cy\u0107 kana\u0142u:",
+    "options": [
+      {
+        "text": "70",
+        "correct": true
+      },
+      {
+        "text": "67",
+        "correct": false
+      },
+      {
+        "text": "26",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa nadaj\u0105c wywo\u0142anie publiczne DSC do innej stacji statkowej:",
+    "options": [
+      {
+        "text": "mo\u017ce poda\u0107 kana\u0142 roboczy",
+        "correct": false
+      },
+      {
+        "text": "nie powinna podawa\u0107 kana\u0142u roboczego",
+        "correct": false
+      },
+      {
+        "text": "musi poda\u0107 kana\u0142 roboczy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa nadaj\u0105c wywo\u0142anie publiczne DSC do stacji nadbrze\u017cnej:",
+    "options": [
+      {
+        "text": "powinna poda\u0107 kana\u0142 roboczy",
+        "correct": false
+      },
+      {
+        "text": "nie powinna podawa\u0107 kana\u0142u roboczego",
+        "correct": true
+      },
+      {
+        "text": "mo\u017ce poda\u0107 kana\u0142 roboczy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Po przej\u015bciu na kana\u0142 roboczy, \u0142\u0105czno\u015b\u0107 publiczn\u0105 inicjuje:",
+    "options": [
+      {
+        "text": "stacja wywo\u0142uj\u0105ca za pomoc\u0105 DSC",
+        "correct": true
+      },
+      {
+        "text": "zawsze stacja wywo\u0142ywana za pomoc\u0105 DSC z",
+        "correct": false
+      },
+      {
+        "text": "stacja wywo\u0142ywana za pomoc\u0105 DSC je\u017celi tak podano w wywo\u0142aniu DSC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa VHF nadaj\u0105c wywo\u0142anie publiczne do innej stacji statkowej mo\u017ce u\u017cy\u0107 kana\u0142u:",
+    "options": [
+      {
+        "text": "25",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      },
+      {
+        "text": "26",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa VHF nadaj\u0105c wywo\u0142anie publiczne do stacji nadbrze\u017cnej mo\u017ce u\u017cy\u0107 kana\u0142u:",
+    "options": [
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefoniczne wywo\u0142anie publiczne w zakresie VHF powinno mie\u0107 form\u0119:",
+    "options": [
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (1x) This is nazwa stacji wywo\u0142uj\u0105cej (2X)",
+        "correct": true
+      },
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (1x) This is nazwa stacji wywo\u0142uj\u0105cej (3x)",
+        "correct": false
+      },
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (2x) This is nazwa stacji wywo\u0142uj\u0105cej (2x)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefoniczna odpowied\u017a na wywo\u0142anie publiczne w zakresie VHF powinna mie\u0107 form\u0119:",
+    "options": [
+      {
+        "text": "nazwa stacji wywo\u0142uj\u0105cej (1x) This is nazwa stacji wywo\u0142ywanej (2x)",
+        "correct": true
+      },
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (4x) This is nazwa stacji wywo\u0142uj\u0105cej (4x)",
+        "correct": false
+      },
+      {
+        "text": "nazwa stacji wywo\u0142uj\u0105cej (2x) This is nazwa stacji wywo\u0142ywanej (2x)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wywo\u0142anie i odpowied\u017a na wywo\u0142anie na kanale 16 VHF nie powinny przekracza\u0107:",
+    "options": [
+      {
+        "text": "1 minuty",
+        "correct": true
+      },
+      {
+        "text": "2 minut",
+        "correct": false
+      },
+      {
+        "text": "3 minut",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja statkowa VHF z DSC, gdy znajduje si\u0119 w morzu, utrzymuje ci\u0105g\u0142y nas\u0142uch radiowy na kanale:",
+    "options": [
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "70",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W \u0142\u0105czno\u015bci stacji statkowej ze stacj\u0105 nadbrze\u017cn\u0105, o przebiegu korespondencji decyduje:",
+    "options": [
+      {
+        "text": "stacja statkowa",
+        "correct": false
+      },
+      {
+        "text": "RCC",
+        "correct": false
+      },
+      {
+        "text": "stacja nadbrze\u017cna",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Wykaz korespondencji (traffic list) nadawany jest przez:",
+    "options": [
+      {
+        "text": "stacj\u0119 statkow\u0105",
+        "correct": false
+      },
+      {
+        "text": "RCC",
+        "correct": false
+      },
+      {
+        "text": "stacj\u0119 nadbrze\u017cn\u0105",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi wywo\u0142ywana stacja nie odpowiada na wywo\u0142anie Publiczne DSC, kolejne mo\u017cna powt\u00f3rzy\u0107 po: :",
+    "options": [
+      {
+        "text": "3 minutach.",
+        "correct": false
+      },
+      {
+        "text": "5 minutach",
+        "correct": true
+      },
+      {
+        "text": "8 minutach",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi wywo\u0142ywana stacja nie odpowiada na radiotelefoniczne wywo\u0142anie publiczne, kolejne mo\u017cna powt\u00f3rzy\u0107 po:",
+    "options": [
+      {
+        "text": "4 minutach, a nast\u0119pne po 1 minucie",
+        "correct": false
+      },
+      {
+        "text": "5 minutach, a nast\u0119pne po 10 minutach",
+        "correct": false
+      },
+      {
+        "text": "2 minutach, a nast\u0119pne po 3 minutach",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jednostka p\u0142ywaj\u0105ca mo\u017ce zrealizowa\u0107 radiotelefoniczn\u0105 \u0142\u0105czno\u015b\u0107 publiczn\u0105 z abonentem telekomunikacyjnej sieci l\u0105dowej:",
+    "options": [
+      {
+        "text": "bezpo\u015brednio przez telekomunikacyjn\u0105 sie\u0107 l\u0105dow\u0105",
+        "correct": false
+      },
+      {
+        "text": "za po\u015brednictwem innej, wi\u0119kszej stacji statkowej",
+        "correct": false
+      },
+      {
+        "text": "za po\u015brednictwem stacji nadbrze\u017cnej",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Radiotelefoniczn\u0105 \u0142\u0105czno\u015b\u0107 publiczn\u0105 z telekomunikacyjn\u0105 sieci\u0105 l\u0105dow\u0105, prowadzi si\u0119 na kanale:",
+    "options": [
+      {
+        "text": "16",
+        "correct": false
+      },
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "wskazanym przez stacj\u0119 nadbrze\u017cn\u0105",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Prowadz\u0105c \u0142\u0105czno\u015b\u0107 radiotelefoniczn\u0105, sygna\u0142em zako\u0144czenia wypowiedzi jest sygna\u0142:",
+    "options": [
+      {
+        "text": "PAN PAN",
+        "correct": false
+      },
+      {
+        "text": "OVER",
+        "correct": true
+      },
+      {
+        "text": "STOP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prowadz\u0105c \u0142\u0105czno\u015b\u0107 radiotelefoniczn\u0105, sygna\u0142em zako\u0144czenia \u0142\u0105czno\u015bci jest sygna\u0142:",
+    "options": [
+      {
+        "text": "OVER AND OUT",
+        "correct": true
+      },
+      {
+        "text": "OVER",
+        "correct": false
+      },
+      {
+        "text": "STOP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Po przej\u015bciu na kana\u0142 roboczy, radiotelefoniczne wywo\u0142anie publiczne powinno mie\u0107 form\u0119:",
+    "options": [
+      {
+        "text": "nazwastacji wywo\u0142ywanej (4x) This is nazwa stacji wywo\u0142uj\u0105cej (4x)",
+        "correct": false
+      },
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (1x) This is nazwa stacji wywo\u0142uj\u0105cej (1x)",
+        "correct": true
+      },
+      {
+        "text": "nazwa stacji wywo\u0142ywanej (2x) This is nazwa stacji wywo\u0142uj\u0105cej (2x)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacja nadbrze\u017cna pytaj\u0105c stacj\u0119 statkow\u0105 o jej po\u0142o\u017cenie mo\u017ce u\u017cy\u0107 skr\u00f3tu:",
+    "options": [
+      {
+        "text": "QRJ",
+        "correct": false
+      },
+      {
+        "text": "AAIC",
+        "correct": false
+      },
+      {
+        "text": "QTH",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Publikacja ITU \u201eSpis stacji nadbrze\u017cnych\" zawiera podstawowe dane o:",
+    "options": [
+      {
+        "text": "stacjach nadbrze\u017cnych otwartych dla korespondencji publicznej",
+        "correct": true
+      },
+      {
+        "text": "tylko stacjach nadbrze\u017cnych nadaj\u0105cych MSI",
+        "correct": false
+      },
+      {
+        "text": "tylko stacjach nadbrze\u017cnych nadaj\u0105cych prognozy pogody",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Publikacja ITU \u201eSpis stacji nadbrze\u017cnych\" zawiera podstawowe dane o:",
+    "options": [
+      {
+        "text": "tylko stacjach nadbrze\u017cnych otwartych dla korespondencji publicznej",
+        "correct": false
+      },
+      {
+        "text": "stacjach nadbrze\u017cnych nadaj\u0105cych MSI",
+        "correct": true
+      },
+      {
+        "text": "RSC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W Polsce, dokument \u201ePozwolenie radiowe na stacj\u0119 statkow\u0105\" wydaje:",
+    "options": [
+      {
+        "text": "PRS",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0105d Morski (UM)",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0105d Komunikacji Elektronicznej (UKE)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dokument \u201ePozwolenie radiowe na stacj\u0119 statkow\u0105\" po\u015bwiadcza o zgodno\u015bci zainstalowanych na jednostce urz\u0105dze\u0144 radiowych z:",
+    "options": [
+      {
+        "text": "przepisami PRS",
+        "correct": false
+      },
+      {
+        "text": "postanowieniami Regulaminu Radiokomunikacyjnego ITU",
+        "correct": true
+      },
+      {
+        "text": "prawid\u0142ami Konwencji SOLAS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W Polsce, dokument \u201eKarta bezpiecze\u0144stwa\" jest przyznawany przez:",
+    "options": [
+      {
+        "text": "PRS",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0105d Komunikacji Elektronicznej (UKE)",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0105d Morski (UM)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u201e\u015awiadectwo operatora \u0142\u0105czno\u015bci bliskiego zasi\u0119gu (SRC)\" upowa\u017cnia do obs\u0142ugi urz\u0105dze\u0144 radiowych wykorzystuj\u0105cych cz\u0119stotliwo\u015bci i techniki stosowane w GMDSS na statkach morskich niepodlegaj\u0105cych Konwencji SOLAS:",
+    "options": [
+      {
+        "text": "w pasmach cz\u0119stotliwo\u015bci VHF, MF i HF",
+        "correct": false
+      },
+      {
+        "text": "na obszarze morza A1",
+        "correct": true
+      },
+      {
+        "text": "tylko w pa\u015bmie cz\u0119stotliwo\u015bci VHF",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W \u201eDzienniku radiowym\" nale\u017cy odnotowywa\u0107:",
+    "options": [
+      {
+        "text": "przynajmniej raz dziennie pozycj\u0119 jednostki",
+        "correct": true
+      },
+      {
+        "text": "liczb\u0119 cz\u0142onk\u00f3w za\u0142ogi",
+        "correct": false
+      },
+      {
+        "text": "pozycj\u0119 jednostki minimum trzy razy na dob\u0119",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zapewnienie tajemnicy korespondencji polega na tym, \u017ce:",
+    "options": [
+      {
+        "text": "tylko informacja wychodz\u0105ca ze stacji nie mo\u017ce trafi\u0107 do os\u00f3b trzecich",
+        "correct": false
+      },
+      {
+        "text": "tylko informacja przychodz\u0105ca do stacji nie mo\u017ce trafi\u0107 do os\u00f3b",
+        "correct": false
+      },
+      {
+        "text": "informacja przychodz\u0105ca i wychodz\u0105ca ze stacji nie mo\u017ce trafi\u0107 do os\u00f3b trzecich",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Potrzebuj\u0119 asysty:",
+    "options": [
+      {
+        "text": "I require assistance.",
+        "correct": false
+      },
+      {
+        "text": "I require escort.",
+        "correct": true
+      },
+      {
+        "text": "I need Attention.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Po\u017car w nadbud\u00f3wce:",
+    "options": [
+      {
+        "text": "Superstructure is fireing.",
+        "correct": false
+      },
+      {
+        "text": "I am having fire in superstructure.",
+        "correct": false
+      },
+      {
+        "text": "Superstructure on fire.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nabieram wody:",
+    "options": [
+      {
+        "text": "I am flooding.",
+        "correct": false
+      },
+      {
+        "text": "I am making water",
+        "correct": true
+      },
+      {
+        "text": "I am taking water.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Czy mo\u017cecie udzieli\u0107 pomocy?",
+    "options": [
+      {
+        "text": "Are you helping me?",
+        "correct": false
+      },
+      {
+        "text": "Can you render assistance?",
+        "correct": true
+      },
+      {
+        "text": "Do you help me?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Czy mo\u017cesz podj\u0105\u0107 rozbitk\u00f3w?",
+    "options": [
+      {
+        "text": "Can you receive survivors?",
+        "correct": false
+      },
+      {
+        "text": "Can you require survivors?",
+        "correct": false
+      },
+      {
+        "text": "Can you pick up survivors?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Widzialno\u015b\u0107 jest zmniejszona z powodu mg\u0142y:",
+    "options": [
+      {
+        "text": "Visibility is getting foggy.",
+        "correct": false
+      },
+      {
+        "text": "Visibility is reduced by fog.",
+        "correct": true
+      },
+      {
+        "text": "Visibility is reduced by snow.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Podaj liczb\u0119 rannych:",
+    "options": [
+      {
+        "text": "Say injured persons.",
+        "correct": false
+      },
+      {
+        "text": "Inform injured.",
+        "correct": false
+      },
+      {
+        "text": "Report injured persons.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Stan rozbitk\u00f3w jest dobry:",
+    "options": [
+      {
+        "text": "Survivors in good condition.",
+        "correct": true
+      },
+      {
+        "text": "Survivors are good.",
+        "correct": false
+      },
+      {
+        "text": "Survivors in bad condition.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przechodz\u0119 na kana\u0142 \\... UKF:",
+    "options": [
+      {
+        "text": "I am coming to canal\\... VHF",
+        "correct": false
+      },
+      {
+        "text": "I am going to channel \\... UKF.",
+        "correct": false
+      },
+      {
+        "text": "Changing to channel \\... VHF.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u015aruba statku jest uszkodzona:",
+    "options": [
+      {
+        "text": "Propeller damaged.",
+        "correct": true
+      },
+      {
+        "text": "Bolt damaged.",
+        "correct": false
+      },
+      {
+        "text": "Propeller are damaged.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zalecam ci przej\u015b\u0107 na kana\u0142 UKF:",
+    "options": [
+      {
+        "text": "I recommend to come to channel VHF.",
+        "correct": false
+      },
+      {
+        "text": "I recommend to switch on to UKF channel.",
+        "correct": false
+      },
+      {
+        "text": "Advise go to VHF channel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dryfuj\u0119 z pr\u0119dko\u015bci\u0105 2 w\u0119z\u0142\u00f3w:",
+    "options": [
+      {
+        "text": "I am a drift.",
+        "correct": false
+      },
+      {
+        "text": "I am drifting at 2 knots.",
+        "correct": true
+      },
+      {
+        "text": "I am proceeding with drift.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Brak zasilania:",
+    "options": [
+      {
+        "text": "No curent.",
+        "correct": false
+      },
+      {
+        "text": "No feedback.",
+        "correct": false
+      },
+      {
+        "text": "No power supply.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kiedy nadejdzie pomoc?",
+    "options": [
+      {
+        "text": "When is assistance going?",
+        "correct": false
+      },
+      {
+        "text": "When help is to come?",
+        "correct": false
+      },
+      {
+        "text": "When will assistance arrive?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mam k\u0142opoty z silnikiem g\u0142\u00f3wnym:",
+    "options": [
+      {
+        "text": "I do not have main engine.",
+        "correct": false
+      },
+      {
+        "text": "I have difficulty with main engine",
+        "correct": false
+      },
+      {
+        "text": "I have problems with main engine",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mam niebezpieczny przechy\u0142 na lew\u0105 burt\u0119:",
+    "options": [
+      {
+        "text": "I have dangerous list to port.",
+        "correct": true
+      },
+      {
+        "text": "I am having a heel to left side.",
+        "correct": false
+      },
+      {
+        "text": "I am heel dangerously to port.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mam problemy z urz\u0105dzeniem sterowym:",
+    "options": [
+      {
+        "text": "I have problems with steering gear.",
+        "correct": true
+      },
+      {
+        "text": "I have problems with rudder.",
+        "correct": false
+      },
+      {
+        "text": "I have problems with steering.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I read you (dobrze):",
+    "options": [
+      {
+        "text": "Fair",
+        "correct": false
+      },
+      {
+        "text": "Good",
+        "correct": true
+      },
+      {
+        "text": "Very well",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nie odpowiadam za swoje ruchy",
+    "options": [
+      {
+        "text": "I am not responsible for my movements",
+        "correct": false
+      },
+      {
+        "text": "I do not have responsibility for my moving",
+        "correct": false
+      },
+      {
+        "text": "I am not under command.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How do you (odbierasz mnie)?",
+    "options": [
+      {
+        "text": "Listen to me",
+        "correct": false
+      },
+      {
+        "text": "Read me",
+        "correct": true
+      },
+      {
+        "text": "Receive me",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I am sinking (po zalaniu):",
+    "options": [
+      {
+        "text": "after flowing.",
+        "correct": false
+      },
+      {
+        "text": "before flooding",
+        "correct": false
+      },
+      {
+        "text": "after flooding.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Odebra\u0142em tw\u00f3j sygna\u0142 Mayday:",
+    "options": [
+      {
+        "text": "I can read your Mayday message.",
+        "correct": false
+      },
+      {
+        "text": "I have copied your Mayday signal.",
+        "correct": false
+      },
+      {
+        "text": "I have received your Mayday signal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Musz\u0119 opu\u015bci\u0107 statek po zderzeniu:",
+    "options": [
+      {
+        "text": "I have to leave vessel before collision",
+        "correct": false
+      },
+      {
+        "text": "I have to abandon ship after crash",
+        "correct": false
+      },
+      {
+        "text": "I must abandon vessel after collision",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Utrzymuj kontakt radiowy na kanale:",
+    "options": [
+      {
+        "text": "Stay in touch on radio on channel",
+        "correct": false
+      },
+      {
+        "text": "Remain contact on radio channel",
+        "correct": false
+      },
+      {
+        "text": "Stand by on radio channel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jakie jest wasze obecne maksymalne zanurzenie?",
+    "options": [
+      {
+        "text": "What is your present maximum freeboard?",
+        "correct": false
+      },
+      {
+        "text": "What is your present air draft?",
+        "correct": false
+      },
+      {
+        "text": "What is your present maximum draft?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nie mog\u0119 p\u0142yn\u0105\u0107 bez pomocy:",
+    "options": [
+      {
+        "text": "I do not have to sail without assistance",
+        "correct": false
+      },
+      {
+        "text": "I cannot proceed without assistance",
+        "correct": true
+      },
+      {
+        "text": "I can\\'t proceeded without assistance.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Za\u0142oga opu\u015bci\u0142a statek:",
+    "options": [
+      {
+        "text": "Crew left ship",
+        "correct": false
+      },
+      {
+        "text": "Crew are abandoning vessel.",
+        "correct": false
+      },
+      {
+        "text": "Crew has abandoned vessel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mam powa\u017cne uszkodzenia przyrz\u0105d\u00f3w nawigacyjnych:",
+    "options": [
+      {
+        "text": "I have major damage to navigational instruments.",
+        "correct": true
+      },
+      {
+        "text": "I have seriously damaged my navigational instruments.",
+        "correct": false
+      },
+      {
+        "text": "My navigational instruments have damaged seriously.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Utrzymuj nas\u0142uch na kanale UKF:",
+    "options": [
+      {
+        "text": "Stand by on channel VHF.",
+        "correct": true
+      },
+      {
+        "text": "Keep listening on channel UKF.",
+        "correct": false
+      },
+      {
+        "text": "Keep watch on channel UKF.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prosz\u0119 o holownik i karetk\u0119 dla ofiar wypadku:",
+    "options": [
+      {
+        "text": "Give me tug and ambulance.",
+        "correct": false
+      },
+      {
+        "text": "Send tug and ambulance for survivors.",
+        "correct": false
+      },
+      {
+        "text": "Send tug and ambulance for casualties.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Powiedz jeszcze raz prosz\u0119:",
+    "options": [
+      {
+        "text": "Tell me once more please.",
+        "correct": false
+      },
+      {
+        "text": "Say again please.",
+        "correct": true
+      },
+      {
+        "text": "Repeat please.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przewidywane jest pogorszenie widzialno\u015bci:",
+    "options": [
+      {
+        "text": "Visibility is getting bad.",
+        "correct": false
+      },
+      {
+        "text": "Visibility is deteriorating.",
+        "correct": false
+      },
+      {
+        "text": "Visibility is expected to decrease.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Stan rozbitk\u00f3w jest z\u0142y:",
+    "options": [
+      {
+        "text": "Condition of castaways is not bad.",
+        "correct": false
+      },
+      {
+        "text": "Survivors in bad condition.",
+        "correct": true
+      },
+      {
+        "text": "Survivors are bad.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "M\u00f3j radar jest uszkodzony:",
+    "options": [
+      {
+        "text": "My radar is damaged..",
+        "correct": true
+      },
+      {
+        "text": "My radar has damaged.",
+        "correct": false
+      },
+      {
+        "text": "My radar brake down.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zderzy\u0142em si\u0119 z nieznanym obiektem:",
+    "options": [
+      {
+        "text": "I have collided with unknown vessel.",
+        "correct": false
+      },
+      {
+        "text": "I have collided with unknown object.",
+        "correct": true
+      },
+      {
+        "text": "I have collided with unknown derelict.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jakie masz problemy?",
+    "options": [
+      {
+        "text": "What problems do you have?",
+        "correct": true
+      },
+      {
+        "text": "What have you problems?",
+        "correct": false
+      },
+      {
+        "text": "What problems is been?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Widzialno\u015b\u0107 jest zmniejszona z powodu rzadkiej mg\u0142y:",
+    "options": [
+      {
+        "text": "Visibility is smaller by hail.",
+        "correct": false
+      },
+      {
+        "text": "Visibility is reduced by mist.",
+        "correct": true
+      },
+      {
+        "text": "Visibility is limited by drizzle.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Musz\u0119 zej\u015b\u0107 z toru wodnego:",
+    "options": [
+      {
+        "text": "I must get rid of fairway.",
+        "correct": false
+      },
+      {
+        "text": "I must leave fairway.",
+        "correct": true
+      },
+      {
+        "text": "I have to left fairway.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Koniec przekazu:",
+    "options": [
+      {
+        "text": "Finished.",
+        "correct": false
+      },
+      {
+        "text": "Over and out.",
+        "correct": true
+      },
+      {
+        "text": "Out.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mam przeciek poni\u017cej linii wodnej:",
+    "options": [
+      {
+        "text": "I am leaking above water line.",
+        "correct": false
+      },
+      {
+        "text": "I have a leak below water line.",
+        "correct": true
+      },
+      {
+        "text": "I have a leak under water line.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Po\u017car opanowany:",
+    "options": [
+      {
+        "text": "Fire been extinguished.",
+        "correct": false
+      },
+      {
+        "text": "Fire is putted out.",
+        "correct": false
+      },
+      {
+        "text": "Fire is under control.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kiedy przyb\u0119dziesz na pozycj\u0119 statku w niebezpiecze\u0144stwie?",
+    "options": [
+      {
+        "text": "When will you run to position in danger?",
+        "correct": false
+      },
+      {
+        "text": "When will you go to ship in dangerous?",
+        "correct": false
+      },
+      {
+        "text": "When will you arrive at distress position?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Odbieram ciebie s\u0142abo:",
+    "options": [
+      {
+        "text": "I read you bad.",
+        "correct": false
+      },
+      {
+        "text": "I read you loud and clear.",
+        "correct": false
+      },
+      {
+        "text": "I read you poor.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os\u0142o\u0144cie mnie od wiatru:",
+    "options": [
+      {
+        "text": "Make a lee for me.",
+        "correct": true
+      },
+      {
+        "text": "Shelter me.",
+        "correct": false
+      },
+      {
+        "text": "Keep wind away of me.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Musicie utrzymywa\u0107 cisz\u0119 radiow\u0105 na tym obszarze:",
+    "options": [
+      {
+        "text": "Radio must be silent in this area.",
+        "correct": false
+      },
+      {
+        "text": "You must keep radio silence in this area..",
+        "correct": true
+      },
+      {
+        "text": "Be quiet in this area.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Z mego statku wypad\u0142 cz\u0142owiek za burt\u0119:",
+    "options": [
+      {
+        "text": "I have lost person overboard.",
+        "correct": true
+      },
+      {
+        "text": "A person felt overboard",
+        "correct": false
+      },
+      {
+        "text": "My vessel threw person overboard.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Manewruj\u0119 z trudno\u015bci\u0105:",
+    "options": [
+      {
+        "text": "I am steering with problem.",
+        "correct": false
+      },
+      {
+        "text": "I am manoeuvring with difficulty.",
+        "correct": true
+      },
+      {
+        "text": "I was maneuvering with difficulty.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B\u0142\u0105d, poprawka:",
+    "options": [
+      {
+        "text": "Mistake, advice.",
+        "correct": false
+      },
+      {
+        "text": "Error, improvement.",
+        "correct": false
+      },
+      {
+        "text": "Mistake, correction.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Stanowicie przeszkod\u0119 dla ruchu:",
+    "options": [
+      {
+        "text": "You are obstructing other traffic.",
+        "correct": true
+      },
+      {
+        "text": "You disturb other vessels.",
+        "correct": false
+      },
+      {
+        "text": "You hamper other ships.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pr\u00f3buj\u0119 p\u0142yn\u0105\u0107 bez pomocy:",
+    "options": [
+      {
+        "text": "I try proceed without help.",
+        "correct": false
+      },
+      {
+        "text": "I try to sail without attendance.",
+        "correct": false
+      },
+      {
+        "text": "I try to proceed without assistance.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest twoja wysoko\u015b\u0107 nadwodna?",
+    "options": [
+      {
+        "text": "What is your height over waterline?",
+        "correct": false
+      },
+      {
+        "text": "What is your height over water?",
+        "correct": false
+      },
+      {
+        "text": "What is your air draft?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Czy mo\u017cesz zej\u015b\u0107 z mielizny w czasie przyp\u0142ywu?",
+    "options": [
+      {
+        "text": "Can you refloat in ebb tide?",
+        "correct": false
+      },
+      {
+        "text": "Can you aground during tide?",
+        "correct": false
+      },
+      {
+        "text": "Can you refloat when tide rises?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Czy jeste\u015b w drodze?",
+    "options": [
+      {
+        "text": "Are you in a way?",
+        "correct": false
+      },
+      {
+        "text": "Are you under way?",
+        "correct": true
+      },
+      {
+        "text": "Have you on your way?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "P\u0142awa \u015bwietlna nie \u015bwieci:",
+    "options": [
+      {
+        "text": "Lightbuoy not illuminated.",
+        "correct": false
+      },
+      {
+        "text": "Lightbeacon unlighted.",
+        "correct": false
+      },
+      {
+        "text": "Lightbuoy unlit",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na torze wodnym znajduj\u0105 si\u0119 sieci rybackie:",
+    "options": [
+      {
+        "text": "Fairway in fishing gear.",
+        "correct": false
+      },
+      {
+        "text": "Fishing nets fouled fairway.",
+        "correct": false
+      },
+      {
+        "text": "Fishing nets in fairway.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ogie\u0144 rozprzestrzenia si\u0119:",
+    "options": [
+      {
+        "text": "Fire is decreasing.",
+        "correct": false
+      },
+      {
+        "text": "Fireis increasing.",
+        "correct": false
+      },
+      {
+        "text": "Fire is spreading.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Wasz sygna\u0142 zrozumiany, odbi\u00f3r:",
+    "options": [
+      {
+        "text": "Your signal understand, over.",
+        "correct": false
+      },
+      {
+        "text": "Your signal understood, over.",
+        "correct": true
+      },
+      {
+        "text": "I get your message, over.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jest odp\u0142yw:",
+    "options": [
+      {
+        "text": "Tide falling.",
+        "correct": true
+      },
+      {
+        "text": "Tide dropping.",
+        "correct": false
+      },
+      {
+        "text": "Tide reducing.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prosz\u0119 o potwierdzenie odbioru wiadomo\u015bci:",
+    "options": [
+      {
+        "text": "Please acknowledge message.",
+        "correct": true
+      },
+      {
+        "text": "Message over.",
+        "correct": false
+      },
+      {
+        "text": "I got your message.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mam niebezpieczny przechy\u0142 na praw\u0105 burt\u0119:",
+    "options": [
+      {
+        "text": "I am on starboard.",
+        "correct": false
+      },
+      {
+        "text": "I have dangerous list to port.",
+        "correct": false
+      },
+      {
+        "text": "I have dangerous list to starboard.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Utworzony system GMDSS pozwala na:",
+    "options": [
+      {
+        "text": "efektywne alarmowanie w relacji statek - brzeg",
+        "correct": true
+      },
+      {
+        "text": "automatyczne alarmowanie w relacji statek - samolot",
+        "correct": false
+      },
+      {
+        "text": "automatyczne wykrywanie katastrof",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "System GMDSS do alarmowania stosuje:",
+    "options": [
+      {
+        "text": "radiotelegrafi\u0119 na kanale 16",
+        "correct": false
+      },
+      {
+        "text": "radiotelegrafi\u0119 na kanale 70",
+        "correct": false
+      },
+      {
+        "text": "cyfrowe selektywne wywo\u0142anie",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Koncepcja systemu GMDSS pozwala na organizacj\u0119 ratownictwa przez:",
+    "options": [
+      {
+        "text": "statki b\u0119d\u0105ce w okolicy katastrofy",
+        "correct": false
+      },
+      {
+        "text": "centrum poszukiwa\u0144 SAR",
+        "correct": false
+      },
+      {
+        "text": "statki w porozumieniu z RCC i SAR",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Definicja obszaru morza A1 to:",
+    "options": [
+      {
+        "text": "A1 - obszar w promieniu 20 mil morskich od nadbrze\u017cnej stacji VHF w kt\u00f3rym statki maj\u0105 mo\u017cliwo\u015b\u0107 pewnej i skutecznej \u0142\u0105czno\u015bci radiowej",
+        "correct": false
+      },
+      {
+        "text": "Obszar A1 to obszar w otoczeniu radiotelegraficznej stacj VHF pracuj\u0105cej na cz\u0119stotliwo\u015bci 156,8 MHz (kana\u0142 16)",
+        "correct": false
+      },
+      {
+        "text": "Obszar radiotelefonicznego zasi\u0119gu co najmniej jednej stacji brzegowej VHF, w kt\u00f3rym jest zapewniona ci\u0105g\u0142a \u0142\u0105czno\u015b\u0107 alarmowa za pomoc\u0105 DSC i kt\u00f3ry jest okre\u015blony przez administracj\u0119",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u015aredni zasi\u0119g \u0142\u0105czno\u015bci alarmowej za pomoc\u0105 DSC wynosi oko\u0142o:",
+    "options": [
+      {
+        "text": "5 NM",
+        "correct": false
+      },
+      {
+        "text": "30 NM",
+        "correct": true
+      },
+      {
+        "text": "100 NM",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nadawanie sygna\u0142\u00f3w alarmowych w GMDSS w obszarze A1 jest mo\u017cliwe za pomoc\u0105:",
+    "options": [
+      {
+        "text": "NAVTEX",
+        "correct": false
+      },
+      {
+        "text": "DSC",
+        "correct": true
+      },
+      {
+        "text": "EGC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do nadawania sygna\u0142\u00f3w alarmowych w obszarze A1 stosowane s\u0105:",
+    "options": [
+      {
+        "text": "kana\u0142 13",
+        "correct": false
+      },
+      {
+        "text": "kana\u0142 6",
+        "correct": false
+      },
+      {
+        "text": "kana\u0142 70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Realizacja komunikacji dla cel\u00f3w pilnych jest mo\u017cliwa",
+    "options": [
+      {
+        "text": "DSC",
+        "correct": true
+      },
+      {
+        "text": "MSI",
+        "correct": false
+      },
+      {
+        "text": "EGC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Realizacja komunikacji dla cel\u00f3w bezpiecze\u0144stwa jest mo\u017cliwa z wykorzystaniem system\u00f3w:",
+    "options": [
+      {
+        "text": "DSC",
+        "correct": true
+      },
+      {
+        "text": "WWNWS",
+        "correct": false
+      },
+      {
+        "text": "MSI",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Informacje zawarte w sygnale alarmowym to:",
+    "options": [
+      {
+        "text": "d\u0142ugo\u015b\u0107 statku i wyporno\u015b\u0107",
+        "correct": false
+      },
+      {
+        "text": "rodzaj zagro\u017cenia i po\u0142o\u017cenie geograficzne",
+        "correct": true
+      },
+      {
+        "text": "rodzaj przewo\u017conego \u0142adunku",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u0141\u0105czno\u015b\u0107 koordynacyjna to \u0142\u0105czno\u015b\u0107 do:",
+    "options": [
+      {
+        "text": "zapewnienia koordynacji dzia\u0142a\u0144 statk\u00f3w i lotnictwa",
+        "correct": true
+      },
+      {
+        "text": "koordynacji ruchu statku",
+        "correct": false
+      },
+      {
+        "text": "koordynacji kolejno\u015bci dzia\u0142a\u0144 \u015brodk\u00f3w radiokomunikacyjnych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u0141\u0105czno\u015b\u0107 na miejscu akcji jest utrzymywana z wykorzystaniem cz\u0119stotliwo\u015bci:",
+    "options": [
+      {
+        "text": "8414 kHz",
+        "correct": false
+      },
+      {
+        "text": "156,8 MHz",
+        "correct": true
+      },
+      {
+        "text": "9 GHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Lokalizacja rozbitk\u00f3w jest dokonywana za pomoc\u0105:",
+    "options": [
+      {
+        "text": "system\u00f3w namiarowych",
+        "correct": false
+      },
+      {
+        "text": "DSC kana\u0142 70",
+        "correct": false
+      },
+      {
+        "text": "transpondera radarowego",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uzyskanie namiaru na transponder radarowy SART uzyskuje si\u0119 za pomoc\u0105 radaru pracuj\u0105cego na cz\u0119stotliwo\u015bciach pasma:",
+    "options": [
+      {
+        "text": "9 GHz",
+        "correct": false
+      },
+      {
+        "text": "3 GHz",
+        "correct": false
+      },
+      {
+        "text": "12 GHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rozpowszechnianie morskich informacji bezpiecze\u0144stwa dotyczy:",
+    "options": [
+      {
+        "text": "informacji komercyjnych",
+        "correct": false
+      },
+      {
+        "text": "pilnych informacji nawigacyjnych i meteorologicznych ",
+        "correct": true
+      },
+      {
+        "text": "prognoz optymalnych cz\u0119stotliwo\u015bci propagacyjnych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Realizacja \u0142\u0105czno\u015bci pomi\u0119dzy dwoma mostkami statk\u00f3w jest mo\u017cliwa za pomoc\u0105:",
+    "options": [
+      {
+        "text": "radiotelefonii na cz\u0119stotliwo\u015bci 2182 kHz",
+        "correct": false
+      },
+      {
+        "text": "radiotelefonii na kanale 6 i 13",
+        "correct": true
+      },
+      {
+        "text": "radiotelefonii na kanale 70",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W sk\u0142ad wyposa\u017cenia statku p\u0142ywaj\u0105cego w obszarze A1 wchodzi:",
+    "options": [
+      {
+        "text": "urz\u0105dzenie nadawczo-odbiorcze na kanale 70",
+        "correct": true
+      },
+      {
+        "text": "urz\u0105dzenie nadawczo-odbiorcze na cz\u0119stotliwo\u015bci 2187,5 kHz",
+        "correct": false
+      },
+      {
+        "text": "urz\u0105dzenie nadawczo-odbiorcze na cz\u0119stotliwo\u015bci 406 MHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "System cyfrowego selektywnego wywo\u0142ania to system:",
+    "options": [
+      {
+        "text": "do transmisji ostrze\u017ce\u0144 pogodowych",
+        "correct": false
+      },
+      {
+        "text": "do transmisji ostrze\u017ce\u0144 nawigacyjnych",
+        "correct": false
+      },
+      {
+        "text": "do automatycznego ustanawiania po\u0142\u0105cze\u0144 radiowych i alarmowania",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W DSC stosowana jest transmisja:",
+    "options": [
+      {
+        "text": "cyfrowa",
+        "correct": true
+      },
+      {
+        "text": "analogowa",
+        "correct": false
+      },
+      {
+        "text": "impulsowa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do transmisji radiowej sygna\u0142u DSC w pa\u015bmie VHF stosuje si\u0119 cz\u0119stotliwo\u015b\u0107 kana\u0142u:",
+    "options": [
+      {
+        "text": "16-go",
+        "correct": false
+      },
+      {
+        "text": "70-go ",
+        "correct": true
+      },
+      {
+        "text": "6-go",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do transmisji radiowej sygna\u0142u DSC w pa\u015bmie VHF stosuje si\u0119:",
+    "options": [
+      {
+        "text": "Modulacj\u0119 amplitudy",
+        "correct": false
+      },
+      {
+        "text": "Modulacj\u0119 impulsow\u0105",
+        "correct": false
+      },
+      {
+        "text": "Modulacj\u0119 fazy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Czas trwania ca\u0142kowitego pojedynczego wywo\u0142ania DSC w pa\u015bmie VHF wynosi:",
+    "options": [
+      {
+        "text": "6,2s-7,2 s",
+        "correct": false
+      },
+      {
+        "text": "0,45 s-0,63 s ",
+        "correct": true
+      },
+      {
+        "text": "3s-45 s",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pole \u201ekategorii\\\" definiuje:",
+    "options": [
+      {
+        "text": "priorytet sekwencji wywo\u0142awczej",
+        "correct": true
+      },
+      {
+        "text": "adres sekwencji wywo\u0142awczej",
+        "correct": false
+      },
+      {
+        "text": "zastosowany rodzaj adresu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wywo\u0142ania alarmowe DSC nadawane na kanale 70 zawieraj\u0105 nast\u0119puj\u0105ce dane/informacje:",
+    "options": [
+      {
+        "text": "numer MMSI, pozycja, czas aktualno\u015bci pozycji",
+        "correct": true
+      },
+      {
+        "text": "pozycja, czas aktualno\u015bci pozycji, posiadane \u015brodki ratunkowe",
+        "correct": false
+      },
+      {
+        "text": "rodzaj zagro\u017cenia, pozycja, czas aktualno\u015bci pozycji, rodzaj oczekiwanej pomocy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nadanie przez statek sygna\u0142u alarmowego w pa\u015bmie VHF fonicznie lub w DSC mo\u017ce by\u0107 realizowane na:",
+    "options": [
+      {
+        "text": "Jednej cz\u0119stotliwo\u015bci",
+        "correct": false
+      },
+      {
+        "text": "Dw\u00f3ch cz\u0119stotliwo\u015bci",
+        "correct": true
+      },
+      {
+        "text": "Trzech cz\u0119stotliwo\u015bci",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zasady potwierdzania odbioru wywo\u0142ania w niebezpiecze\u0144stwie w pa\u015bmie VHF przez stacj\u0119 nadbrze\u017cn\u0105, to:",
+    "options": [
+      {
+        "text": "Potwierdzenie odbioru wywo\u0142ania w niebezpiecze\u0144stwie powinno by\u0107 zainicjowane r\u0119cznie na tej samej cz\u0119stotliwo\u015bci, na kt\u00f3rej odebrano to wywo\u0142anie z op\u00f3\u017anieniem co najmniej jednominutowym",
+        "correct": false
+      },
+      {
+        "text": "Potwierdzenie odbioru wywo\u0142ania w niebezpiecze\u0144stwie powinno by\u0107 zainicjowane r\u0119cznie na cz\u0119stotliwo\u015bci kana\u0142u 70.",
+        "correct": false
+      },
+      {
+        "text": "Potwierdzenie odbioru wywo\u0142ania w niebezpiecze\u0144stwie powinno by\u0107 zainicjowane r\u0119cznie na tej samej cz\u0119stotliwo\u015bci, na kt\u00f3rej odebrano to wywo\u0142anie z op\u00f3\u017anieniem nie wi\u0119kszym jednak ni\u017c 2,75 min.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nadanie korespondencji typu po\u015brednictwo w niebezpiecze\u0144stwie przez statek w pa\u015bmie VHF polega na:",
+    "options": [
+      {
+        "text": "Nadaniu typu po\u015brednictwo w niebezpiecze\u0144stwie do wszystkich statk\u00f3w lub wybranej stacji.",
+        "correct": true
+      },
+      {
+        "text": "Nadaniu typu po\u015brednictwo w niebezpiecze\u0144stwie do w\u0142a\u015bciwej stacji nadbrze\u017cnej.",
+        "correct": false
+      },
+      {
+        "text": "Nadaniu typu po\u015brednictwo w niebezpiecze\u0144stwie do wszystkich stacji nadbrze\u017cnych.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przedstaw mo\u017cliwo\u015bci stosowania kana\u0142\u00f3w DSC w korespondencji publicznej w pa\u015bmie VHF:",
+    "options": [
+      {
+        "text": "W pa\u015bmie VHF kana\u0142 70 stosowany jest zar\u00f3wno do wywo\u0142a\u0144 DSC w niebezpiecze\u0144stwie jak i do cel\u00f3w zapewnienia bezpiecze\u0144stwa. Jest r\u00f3wnie\u017c stosowany do wywo\u0142a\u0144 DSC w celu zrealizowania korespondencji publicznej.",
+        "correct": true
+      },
+      {
+        "text": "W pa\u015bmie VHF kana\u0142 70 nie mo\u017ce by\u0107 stosowany do cel\u00f3w korespondencji publicznej.",
+        "correct": false
+      },
+      {
+        "text": "W pa\u015bmie VHF kana\u0142 70 nie mo\u017ce by\u0107 stosowany do cel\u00f3w zapewnienia bezpiecze\u0144stwa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Testowanie zewn\u0119trzne aparatury DSC w pa\u015bmie VHF, zgodnie z przepisami ITU oraz Konwencji STCW, ma by\u0107 realizowane:",
+    "options": [
+      {
+        "text": "Tak cz\u0119sto jak to jest niezb\u0119dne.",
+        "correct": false
+      },
+      {
+        "text": "Testowanie jest zabronione.",
+        "correct": false
+      },
+      {
+        "text": "Raz na tydzie\u0144.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "System NAVTEX s\u0142u\u017cy do:",
+    "options": [
+      {
+        "text": "Transmisji map synoptycznych.",
+        "correct": false
+      },
+      {
+        "text": "Transmisji ostrze\u017ce\u0144 nawigacyjnych.",
+        "correct": true
+      },
+      {
+        "text": "\u0141\u0105czno\u015bci z publiczn\u0105 sieci\u0105 telefoniczn\u0105.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacje systemu NAVTEX pracuj\u0105 na cz\u0119stotliwo\u015bci:",
+    "options": [
+      {
+        "text": "2177 kHz.",
+        "correct": false
+      },
+      {
+        "text": "490 kHz.",
+        "correct": true
+      },
+      {
+        "text": "156.8 MHz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Podstawow\u0105 cz\u0119stotliwo\u015bci\u0105 transmisji w systemie NAVTEX jest:",
+    "options": [
+      {
+        "text": "518 kHz.",
+        "correct": true
+      },
+      {
+        "text": "4125 kHz",
+        "correct": false
+      },
+      {
+        "text": "500 kHz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zasi\u0119g stacji systemu NAVTEX wynosi:",
+    "options": [
+      {
+        "text": "50-100 Mm.",
+        "correct": false
+      },
+      {
+        "text": "350-1000 Mm.",
+        "correct": false
+      },
+      {
+        "text": "200-400 Mm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Zasi\u0119g stacji systemu NAVTEX jest najwi\u0119kszy:",
+    "options": [
+      {
+        "text": "w dzie\u0144",
+        "correct": false
+      },
+      {
+        "text": "w nocy",
+        "correct": true
+      },
+      {
+        "text": "Rano",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W jaki spos\u00f3b dokonuje si\u0119 w odbiorniku NAVTEX ustawienia stacji:",
+    "options": [
+      {
+        "text": "przez wpisanie nazwy stacji",
+        "correct": false
+      },
+      {
+        "text": "przez podanie pozycji geograficznej odbiornika",
+        "correct": false
+      },
+      {
+        "text": "przez ustawienie litery odpowiadaj\u0105cej nazwie stacji",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W jaki spos\u00f3b dokonuje si\u0119 w odbiorniku NAVTEX ustawienia rodzaju odbieranych informacji:",
+    "options": [
+      {
+        "text": "przez wpisanie numeru informacji",
+        "correct": false
+      },
+      {
+        "text": "przez ustawienie litery odpowiadaj\u0105cej typowi informacji",
+        "correct": true
+      },
+      {
+        "text": "w odbiorniku nie ma mo\u017cliwo\u015bci wyboru odbieranych informacji",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u201eZCZC JA23\" w nag\u0142\u00f3wku komunikatu odebranego ze stacji NAVTEX oznacza, \u017ce:",
+    "options": [
+      {
+        "text": "komunikat nadany zosta\u0142 przez stacj\u0119 \u201eA\"",
+        "correct": false
+      },
+      {
+        "text": "komunikat nadany zosta\u0142 przez stacj\u0119 \u201eJ\"",
+        "correct": true
+      },
+      {
+        "text": "komunikat dotyczy ostrze\u017cenia meteorologicznego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u201eZCZC UB66\" w nag\u0142\u00f3wku komunikatu odebranego ze stacji NAVTEX oznacza, \u017ce:",
+    "options": [
+      {
+        "text": "komunikat nadany zosta\u0142 przez stacj\u0119 \u201eU\"",
+        "correct": true
+      },
+      {
+        "text": "komunikat nadany zosta\u0142 przez stacj\u0119 \u201eJ\"",
+        "correct": false
+      },
+      {
+        "text": "komunikat dotyczy ostrze\u017cenia nawigacyjnego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jakie komunikaty b\u0119d\u0105 zawsze wy\u015bwietlane/drukowane przez odbiornik systemu NAVTEX?",
+    "options": [
+      {
+        "text": "ostrze\u017cenia meteorologiczne",
+        "correct": true
+      },
+      {
+        "text": "prognozy pogody",
+        "correct": false
+      },
+      {
+        "text": "raporty lodowe",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Druga litera B w nag\u0142\u00f3wku komunikatu stacji NAVTEX (np. LB47) oznacza, \u017ce jest to:",
+    "options": [
+      {
+        "text": "informacja dotycz\u0105ca ataku pirat\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "ostrze\u017cenie meteorologiczne",
+        "correct": true
+      },
+      {
+        "text": "prognoza pogody",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacje systemu NAVTEX nadaj\u0105 komunikaty:",
+    "options": [
+      {
+        "text": "dwa razy na dob\u0119",
+        "correct": false
+      },
+      {
+        "text": "o godz. 0700 i 2300 UTC",
+        "correct": false
+      },
+      {
+        "text": "nie cz\u0119\u015bciej ni\u017c co cztery godziny",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sekwencja \u201eNNN\" w wydruku komunikatu odbiornika NAVTEX oznacza:",
+    "options": [
+      {
+        "text": "komunikat pilny",
+        "correct": false
+      },
+      {
+        "text": "komunikat odebrany poprawnie",
+        "correct": false
+      },
+      {
+        "text": "komunikat odebrany niepoprawnie",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sekwencja \u201eNNNN\" w wydruku komunikatu odbiornika NAVTEX oznacza:",
+    "options": [
+      {
+        "text": "komunikat pilny",
+        "correct": false
+      },
+      {
+        "text": "komunikat, kt\u00f3ry odebrany zosta\u0142 ze stop\u0105 b\u0142\u0119du mniejsz\u0105 od 4%",
+        "correct": true
+      },
+      {
+        "text": "komunikat odebrany niepoprawnie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Komunikaty transmitowane na cz\u0119stotliwo\u015bci 518 kHz nadawane s\u0105 w j\u0119zyku:",
+    "options": [
+      {
+        "text": "Angielskim",
+        "correct": true
+      },
+      {
+        "text": "angielskim i francuskim",
+        "correct": false
+      },
+      {
+        "text": "W j\u0119zyku pa\u0144stwa, z terenu kt\u00f3rego nadaje stacja",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u201eZCZC BBOI\" w nag\u0142\u00f3wku komunikatu odebranego ze stacji Navtex oznacza",
+    "options": [
+      {
+        "text": "ostrze\u017cenie nawigacyjne",
+        "correct": false
+      },
+      {
+        "text": "ostrze\u017cenie meteorologiczne",
+        "correct": true
+      },
+      {
+        "text": "komunikat nadany zosta\u0142 dla obszaru morza A1",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Odbiornik systemu NAVTEX wy\u015bwietla/drukuje:",
+    "options": [
+      {
+        "text": "wszystkie komunikaty z zaprogramowanych stacji",
+        "correct": false
+      },
+      {
+        "text": "wszystkie komunikaty dotycz\u0105ce ostrze\u017ce\u0144 nawigacyjnych, meteorologicznych i informacji o akcjach SAR z wszystkich stacji w zasi\u0119gu odbioru",
+        "correct": false
+      },
+      {
+        "text": "wszystkie komunikaty dotycz\u0105ce ostrze\u017ce\u0144 nawigacyjne, meteorologicznych i informac i o akcjach SAR z zaprogramowanych stacji",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Cz\u0119stotliwo\u015b\u0107 490 kHz jest stosowana w systemie NAVTEX do:",
+    "options": [
+      {
+        "text": "transmisji komunikat\u00f3w w obszarach tropikalnych",
+        "correct": false
+      },
+      {
+        "text": "transmisji komunikat\u00f3w w rejonach polarnych",
+        "correct": false
+      },
+      {
+        "text": "transmisji komunikat\u00f3w w j\u0119zyku lokalnym",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W systemie NAVTEX sygna\u0142y transmitowane s\u0105:",
+    "options": [
+      {
+        "text": "w trybie teleksowym FEC",
+        "correct": true
+      },
+      {
+        "text": "z zastosowaniem modulacji G2B",
+        "correct": false
+      },
+      {
+        "text": "G\u0142osowo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W nocy zasi\u0119g odbioru sygna\u0142\u00f3w w systemie NAVTEX jest:",
+    "options": [
+      {
+        "text": "wi\u0119kszy ni\u017c w dzie\u0144",
+        "correct": true
+      },
+      {
+        "text": "taki sam jak w dzie\u0144",
+        "correct": false
+      },
+      {
+        "text": "Mniejszy ni\u017c w dzie\u0144",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W rejonach tropikalnych zasi\u0119g odbioru sygna\u0142\u00f3w transmitowanych na cz\u0119stotliwo\u015bci 518 kHz:",
+    "options": [
+      {
+        "text": "zale\u017cy od pory doby",
+        "correct": true
+      },
+      {
+        "text": "wynosi 75 Mm",
+        "correct": false
+      },
+      {
+        "text": "nie zale\u017cy od pory doby",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nadanie komunikatowi NAVTEX numeru 00 (np. JD00) spowoduje: \u017ce komunikat o tym numerze zostanie zignorowany",
+    "options": [
+      {
+        "text": "\u017be komunikat o tym numerze zostanie zignorowany",
+        "correct": false
+      },
+      {
+        "text": "\u017be wszystkie odbiorniki NAVTEX znajduj\u0105ce si\u0119 w zasi\u0119gu stacji nadaj\u0105cej wydrukuj\u0105 tak oznaczony komunikat niezale\u017cnie od dokonanego przez u\u017cytkownika ustawienia stacji",
+        "correct": true
+      },
+      {
+        "text": "\u017be komunikat nadany zosta\u0142 o godzi. 00:00",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stacje NAVTEX powtarzaj\u0105 w kolejnych transmisjach komunikaty:",
+    "options": [
+      {
+        "text": "tak d\u0142ugo, dop\u00f3ki nie ustanie pow\u00f3d, z kt\u00f3rego dany komunikat jest nadawany",
+        "correct": true
+      },
+      {
+        "text": "przez 7 dni",
+        "correct": false
+      },
+      {
+        "text": "dwa razy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Informacje o rozmieszczeniu, zasi\u0119gach i czasach nadawania stacji NAVTEX mo\u017cna znale\u017a\u0107 w:",
+    "options": [
+      {
+        "text": "List of Coast Stations and Special Service Stations - ITU",
+        "correct": false
+      },
+      {
+        "text": "Admirality List of Radio Signals Vol. 1",
+        "correct": false
+      },
+      {
+        "text": "List of Ship Stations - ITU",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zainstalowanie na statku odbiornika systemu NAVTEX wymaga zgody:",
+    "options": [
+      {
+        "text": "Urz\u0119du Komunikacji Elektronicznej",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0119du Morskiego",
+        "correct": false
+      },
+      {
+        "text": "\u017badnego z powy\u017cszych",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Koordynatorem odpowiedzialnym za gromadzenie i dystrybucj\u0119 morskich informacji bezpiecze\u0144stwa w obszarze polskiej strefy ekonomicznej jest:",
+    "options": [
+      {
+        "text": "Urz\u0105d Morski w Gdyni",
+        "correct": false
+      },
+      {
+        "text": "Urz\u0105d Morski w Szczecinie",
+        "correct": false
+      },
+      {
+        "text": "Biuro Hydrograficzne Marynarki Wojennej",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Informacje o transmisjach morskich informacji bezpiecze\u0144stwa za pomoc\u0105 innych system\u00f3w ni\u017c NAVTEX znale\u017a\u0107 mo\u017cna w:",
+    "options": [
+      {
+        "text": "List of Cost Stations and Special Service Stations - ITU",
+        "correct": true
+      },
+      {
+        "text": "Admirality List of Radio Signals Vol. 1",
+        "correct": false
+      },
+      {
+        "text": "Admirality List of Radio Signals Vol. 5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W systemie GMDSS stosuje si\u0119 radiop\u0142awy:",
+    "options": [
+      {
+        "text": "systemu COSPAS-SARSAT nadaj\u0105ce sygna\u0142y na cz\u0119stotliwo\u015bci 406 MHz i 121,5 MHz",
+        "correct": true
+      },
+      {
+        "text": "systemu INMARSAT-E pracuj\u0105ce w pa\u015bmie 1,6 GHz",
+        "correct": false
+      },
+      {
+        "text": "systemu COSPAS-SARSAT nadaj\u0105ce sygna\u0142y na cz\u0119stotliwo\u015bci 406 MHz i 243 MHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W sk\u0142ad systemu COSPAS-SARSAT wchodzi blok satelit\u00f3w poruszaj\u0105cych si\u0119 po orbitach polarnych. Kt\u00f3re z poni\u017cszych stwierdze\u0144jest prawdziwe:",
+    "options": [
+      {
+        "text": "wysoko\u015b\u0107 orbit polarnych wynosi oko\u0142o 3000 km",
+        "correct": false
+      },
+      {
+        "text": "wysoko\u015b\u0107 orbit polarnych wynosi 850 - 1000 km",
+        "correct": true
+      },
+      {
+        "text": "wysoko\u015b\u0107 orbit polarnych wynosi oko\u0142o 240 km",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W sk\u0142ad systemu COSPAS-SARSAT wchodzi blok satelit\u00f3w poruszaj\u0105cych si\u0119 po orbitach polarnych. Czas obiegu Ziemi przez satelit\u0119 poruszaj\u0105cego si\u0119 po orbicie polarnej wynosi:",
+    "options": [
+      {
+        "text": "oko\u0142o 105 minut",
+        "correct": true
+      },
+      {
+        "text": "oko\u0142o 12 godzin",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 24 godziny",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W sk\u0142ad systemu COSPAS-SARSAT wchodzi blok satelit\u00f3w poruszaj\u0105cych si\u0119 po orbitach polarnych. Przelatuj\u0105cy satelita \u201eWidzi\" z orbity radiop\u0142aw\u0119 przez:",
+    "options": [
+      {
+        "text": "oko\u0142o 12-16 minut",
+        "correct": true
+      },
+      {
+        "text": "oko\u0142o 3 minuty",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 30 minut",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W sk\u0142ad systemu COSPAS-SARSAT wchodzi blok satelit\u00f3w geostacjonarnych sk\u0142adaj\u0105cy si\u0119 z:",
+    "options": [
+      {
+        "text": "3 satelit\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "12 --- 15 satelit\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "4 ---6 satelit\u00f3w",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Do okre\u015blenia po\u0142o\u017cenia radiop\u0142awy w systemie COSPAS-SARSAT wykorzystujemy:",
+    "options": [
+      {
+        "text": "pomiar czasu przelotu sygna\u0142\u00f3w na trasie radiop\u0142awa - satelita",
+        "correct": false
+      },
+      {
+        "text": "pomiar czasu przelotu sygna\u0142\u00f3w na trasie radiop\u0142awa - satelita - stacja LUT",
+        "correct": false
+      },
+      {
+        "text": "zjawisko Dopplera",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Bateria litowa zasilaj\u0105ca radiop\u0142aw\u0119 powinna zapewni\u0107:",
+    "options": [
+      {
+        "text": "nieprzerwan\u0105 prac\u0119 radiop\u0142awy przez 96 godzin",
+        "correct": false
+      },
+      {
+        "text": "nieprzerwan\u0105 prac\u0119 radiop\u0142awy przez 48 godzin",
+        "correct": true
+      },
+      {
+        "text": "nieprzerwan\u0105 prac\u0119 radiop\u0142awy do momentu odbioru sygna\u0142\u00f3w przez satelit\u0119",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 o cz\u0119stotliwo\u015b\u0107 121,5 MHz nadawany przez radiop\u0142aw\u0119 systemu COSPAS-SARSAT s\u0142u\u017cy do:",
+    "options": [
+      {
+        "text": "ko\u0144cowego naprowadzania jednostek SAR na rozbitk\u00f3w (na radiop\u0142aw\u0119)",
+        "correct": true
+      },
+      {
+        "text": "do rozwi\u0105zania problemu niejednoznaczno\u015bci okre\u015blonej pozycji",
+        "correct": false
+      },
+      {
+        "text": "Do lokalizacji po\u0142o\u017cenia radiop\u0142aw w obszarze pokrycia satelit\u00f3w geostacjonarnych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dok\u0142adno\u015b\u0107 lokalizacji radiop\u0142awy w systemie COSPAS-SARSAT wynosi:",
+    "options": [
+      {
+        "text": "oko\u0142o 5 km w przypadku wykorzystania sygna\u0142\u00f3w o cz\u0119stotliwo\u015bci 406 MHz",
+        "correct": true
+      },
+      {
+        "text": "oko\u0142o 1 km w przypadku wykorzystania sygna\u0142\u00f3w o cz\u0119stotliwo\u015bci 406 MHz i 121.5 MHz",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 2 km w przypadku wykorzystania sygna\u0142\u00f3w o cz\u0119stotliwo\u015bci 121,5 MHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3re z poni\u017cszych zda\u0144 jest prawdziwe?",
+    "options": [
+      {
+        "text": "Zasi\u0119g wykrywania radiop\u0142aw 121,5 MHz jest globalny.",
+        "correct": false
+      },
+      {
+        "text": "Cz\u0119stotliwo\u015b\u0107 121,5 MHz nie jest \u015bledzona przez segment satelitarny.",
+        "correct": true
+      },
+      {
+        "text": "Cz\u0119stotliwo\u015b\u0107 121,5 MHz jest \u015bledzona przez satelity geostacjonarne.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142y nadawane przez radiop\u0142aw\u0119 na cz\u0119stotliwo\u015bci 406 MHz:",
+    "options": [
+      {
+        "text": "nadawane s\u0105 przez oko\u0142o 0,5 sekundy i powtarzane co 2 minuty",
+        "correct": false
+      },
+      {
+        "text": "nadawane s\u0105 przez oko\u0142o 0,5 sekundy i powtarzane co 50 +/- 2,5 sekundy",
+        "correct": true
+      },
+      {
+        "text": "zawieraj\u0105 dane armatora",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142y nadawane przez radiop\u0142aw\u0119 na cz\u0119stotliwo\u015bci 406 MHz zawieraj\u0105:",
+    "options": [
+      {
+        "text": "informacje o producencie radiop\u0142awy",
+        "correct": false
+      },
+      {
+        "text": "MID (Maritime Identification Digits) kod kraju",
+        "correct": true
+      },
+      {
+        "text": "dat\u0119 i czas uruchomienia radiop\u0142awy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142y nadawane przez radiop\u0142aw\u0119 na cz\u0119stotliwo\u015bci 406 MHz pozwalaj\u0105 na identyfikacj\u0119 statku, z kt\u00f3rego pochodzi radiop\u0142awa na podstawie zakodowanego:",
+    "options": [
+      {
+        "text": "numeru MMSI",
+        "correct": true
+      },
+      {
+        "text": "MID (Maritime Identification Digits) - kodu kraju",
+        "correct": false
+      },
+      {
+        "text": "kodu armatora",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Radiop\u0142awa systemu COSPAS-SARSAT ma:",
+    "options": [
+      {
+        "text": "wbudowany sygnalizator d\u017awi\u0119kowy",
+        "correct": false
+      },
+      {
+        "text": "wbudowane \u017ar\u00f3d\u0142o \u015bwiat\u0142a ci\u0105g\u0142ego",
+        "correct": false
+      },
+      {
+        "text": "wbudowany nadajnik do lokalizacji ko\u0144cowego miejsca katastrofy (do naprowadzania jednostek SAR)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Radiop\u0142awy systemu COSPAS-SARSAT mog\u0105 by\u0107 uruchomione:",
+    "options": [
+      {
+        "text": "automatycznie za pomoc\u0105 zwalniaka hydrostatycznego, gdy statek tonie",
+        "correct": true
+      },
+      {
+        "text": "przez wpisanie w\u0142a\u015bciwego kodu",
+        "correct": false
+      },
+      {
+        "text": "zdalnie z RCC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W przypadku uruchomienia radiop\u0142awy systemu COSPAS-SARSAT, czas jaki up\u0142ywa od jej uruchomienia do powiadomienia RCC wynosi:",
+    "options": [
+      {
+        "text": "oko\u0142o 5 minut, je\u017celi radiop\u0142awa znajduje si\u0119 w zasi\u0119gu satelit\u00f3w geostacjonarnych",
+        "correct": true
+      },
+      {
+        "text": "oko\u0142o 15 minut, je\u017celi radiop\u0142awa zosta\u0142a uruchomiona w dzie\u0144",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 25 minut, je\u017celi radiop\u0142awa zosta\u0142a uruchomiona w nocy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Obieg informacji o alarmowaniu w systemie COSPAS-SARSAT przebiega wg schematu:",
+    "options": [
+      {
+        "text": "radiop\u0142awa \u2192 satelita biegunowy \u2192 LUT \u2192 MCC \u2192 RCC \u2192 jednostki SAR",
+        "correct": true
+      },
+      {
+        "text": "radiop\u0142awa \u2192 satelita biegunowy \u2192 LUT \u2192 RCC \u2192 jednostki SAR",
+        "correct": false
+      },
+      {
+        "text": "Radiop\u0142awa -\\> satelita geostacjonarny---\\>LUT-\\>MCC-\\>RCC-\\>jednostki SAR",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W celu dokonania rejestracji radiop\u0142awy nale\u017cy:",
+    "options": [
+      {
+        "text": "zg\u0142osi\u0107 si\u0119 do Urz\u0119du Lotnictwa Cywilnego w Warszawie",
+        "correct": true
+      },
+      {
+        "text": "zg\u0142osi\u0107 si\u0119 do Urz\u0119du Komunikacji Elektronicznej",
+        "correct": false
+      },
+      {
+        "text": "zg\u0142osi\u0107 si\u0119 do MRCC Gdynia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Satelita biegunowy po odebraniu sygna\u0142\u00f3w z radiop\u0142awy 121,5 MHz:",
+    "options": [
+      {
+        "text": "okre\u015bla pozycj\u0119 radiop\u0142awy i przekazuje t\u0119 informacj\u0119 do RCC",
+        "correct": false
+      },
+      {
+        "text": "okre\u015bla pozycj\u0119 radiop\u0142awy i przekazuje t\u0119 informacj\u0119 do stacji LUT",
+        "correct": false
+      },
+      {
+        "text": "satelita biegunowy nie odbiera sygna\u0142u 121,5 MHz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Satelita biegunowy po odebraniu sygna\u0142\u00f3w z radiop\u0142awy 406 MHz:",
+    "options": [
+      {
+        "text": "okre\u015bla pozycj\u0119 radiop\u0142awy i przekazuje t\u0119 informacj\u0119 do LUT",
+        "correct": false
+      },
+      {
+        "text": "retransmituje odebrane z radiop\u0142awy sygna\u0142y do satelity geostacjonarnego",
+        "correct": false
+      },
+      {
+        "text": "retransmituje odebrane z radiop\u0142awy sygna\u0142y do stacji LUT",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Okre\u015blenie pozycji radiop\u0142awy w systemie COSPAS-SARSAT nast\u0119puje w:",
+    "options": [
+      {
+        "text": "RCC",
+        "correct": false
+      },
+      {
+        "text": "LUT",
+        "correct": true
+      },
+      {
+        "text": "na pok\u0142adzie satelity biegunowego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Okre\u015blenie pozycji radiop\u0142awy w oparciu o sygna\u0142y nadawane na cz\u0119stotliwo\u015bci 121,5 MHz jest mo\u017cliwe w systemie COSPAS-SARSAT:",
+    "options": [
+      {
+        "text": "nie jest mo\u017cliwe",
+        "correct": true
+      },
+      {
+        "text": "Zawsze",
+        "correct": false
+      },
+      {
+        "text": "tylko w obszarze AI",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Testowanie radiop\u0142awy polega na:",
+    "options": [
+      {
+        "text": "wykonaniu raz w miesi\u0105cu testu zgodnie z instrukcji na obudowie radiop\u0142awy",
+        "correct": true
+      },
+      {
+        "text": "r\u0119cznym uruchomieniu radiop\u0142awy i sprawdzeniu, czy zareagowa\u0142y RCC",
+        "correct": false
+      },
+      {
+        "text": "wrzuceniu radiop\u0142awy do wody i sprawdzeniu, czy zacznie dzia\u0142a\u0107 \u015bwiat\u0142o b\u0142yskowe",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3re z poni\u017cszych zda\u0144 jest prawdziwe?",
+    "options": [
+      {
+        "text": "Na obudowie satelitarnej p\u0142awy awaryjnej powinna by\u0107 umieszczona tabliczka z kodem identyfikacyjnym zaprogramowanym w nadajniku.",
+        "correct": true
+      },
+      {
+        "text": "Radiop\u0142awa powinna by\u0107 wyposa\u017cona w lamp\u0119 o \u015bwiat\u0142o\u015bci 0,5 cd.",
+        "correct": false
+      },
+      {
+        "text": "Radiop\u0142awa powinna mie\u0107 wbudowany transponder radarowy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3re z poni\u017cszych zda\u0144 jest prawdziwe?",
+    "options": [
+      {
+        "text": "Cz\u0119stotliwo\u015b\u0107 121,5 MHz transmitowana przez radiop\u0142aw\u0119 systemu COSPAS - SARSAT mo\u017ce by\u0107 wykorzystana do namierzania przez jednostki SAR.",
+        "correct": true
+      },
+      {
+        "text": "Cz\u0119stotliwo\u015b\u0107 121,5 MHz transmitowana przez radiop\u0142aw\u0119 systemu COSPAS - SARSAT b\u0119dzie \u015bledzona przez satelity zainstalowane na orbitach MEO.",
+        "correct": false
+      },
+      {
+        "text": "Cz\u0119stotliwo\u015b\u0107 121,5 MHz transmitowana przez radiop\u0142aw\u0119 systemu COSPAS - SARSAT u\u017cywana jest do transmisji pozycji radiop\u0142awy.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Numer identyfikacyjny w postaci 974XXYYYY zarezerwowany jest dla:",
+    "options": [
+      {
+        "text": "przeznaczonego na \u015brodki ratunkowe AIS SART.",
+        "correct": false
+      },
+      {
+        "text": "wbudowanego w radiop\u0142aw\u0119 COSPAS - SARSAT transpondera AIS.",
+        "correct": true
+      },
+      {
+        "text": "urz\u0105dze\u0144 AIS przeznaczonych dla lokalizacji cz\u0142owieka za burt\u0105",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W przypadku uruchomienia radiop\u0142awy w sytuacji gdy nie ma zagro\u017cenia, nale\u017cy:",
+    "options": [
+      {
+        "text": "natychmiast wy\u0142\u0105czy\u0107 radiop\u0142aw\u0119 ,",
+        "correct": false
+      },
+      {
+        "text": "natychmiast czy\u0107 radiop\u0142aw\u0119 i powiadomi\u0107 o zaistnia\u0142ym fakcie najbli\u017csze RCC",
+        "correct": true
+      },
+      {
+        "text": "natychmiast wy\u0142\u0105czy\u0107 radiop\u0142aw\u0119 i powiadomi\u0107 o zaistnia\u0142ym fakcie znajduj\u0105ce si\u0119 w pobli\u017cu statki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transponder radarowy s\u0142u\u017cy do:",
+    "options": [
+      {
+        "text": "lokalizacji rozbitk\u00f3w na miejscu katastrofy",
+        "correct": true
+      },
+      {
+        "text": "szybkiego powiadamiania RCC o katastrofie",
+        "correct": false
+      },
+      {
+        "text": "wykrywania jednostek znajduj\u0105cych si\u0119 w pobli\u017cu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transponder radarowy wsp\u00f3\u0142pracuje z radarami:",
+    "options": [
+      {
+        "text": "w pa\u015bmie S",
+        "correct": false
+      },
+      {
+        "text": "w pa\u015bmie X",
+        "correct": true
+      },
+      {
+        "text": "pracuj\u0105cymi w pa\u015bmie 3 GHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transponder radarowy nadaje sw\u00f3j sygna\u0142:",
+    "options": [
+      {
+        "text": "natychmiast po w\u0142\u0105czeniu",
+        "correct": false
+      },
+      {
+        "text": "po w\u0142\u0105czeniu i pobudzeniu przez radar pracuj\u0105cy W pa\u015bmie 9 GHz",
+        "correct": true
+      },
+      {
+        "text": "po zanurzeniu. w wodzie morskiej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zasi\u0119g transpondera radarowego zale\u017cy:",
+    "options": [
+      {
+        "text": "Od wysoko\u015bci umieszczenia transpondera na tratwie ratunkowej",
+        "correct": true
+      },
+      {
+        "text": "od tego czy nadaje w pa\u015bmie X czy S",
+        "correct": false
+      },
+      {
+        "text": "od temperatury otoczenia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przy wysoko\u015bci umieszczenia transpondera radarowego 1 m i antenie radaru statku wykrywaj\u0105cego na wysoko\u015bci 10-15 m, zasi\u0119g b\u0119dzie wynosi\u0142:",
+    "options": [
+      {
+        "text": "oko\u0142o 12 mil",
+        "correct": false
+      },
+      {
+        "text": "2 mil",
+        "correct": false
+      },
+      {
+        "text": "5 do 7 mil",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Maksymalny zasi\u0119g transpondera radarowego przy wykrywaniu z helikoptera wynosi",
+    "options": [
+      {
+        "text": "15 mi",
+        "correct": false
+      },
+      {
+        "text": "30-40 mil",
+        "correct": true
+      },
+      {
+        "text": "60 mil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pojemno\u015b\u0107 baterii transpondera radarowego powinna zapewni\u0107 prac\u0119:",
+    "options": [
+      {
+        "text": "minimum 96 godz. w stanie gotowo\u015bci plus 8 godz. Nadawania",
+        "correct": true
+      },
+      {
+        "text": "Minimum 48 godz. w stanie gotowo\u015bci plus 8 godz. Nadawania",
+        "correct": false
+      },
+      {
+        "text": "minimum 24 godz. w stanie gotowo\u015bci plus 8 godz. Nadawania",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 z transpondera radarowego widziany jest na ekranie radaru w postaci:",
+    "options": [
+      {
+        "text": "jasnego k\u00f3\u0142ka w pozycji transpondera",
+        "correct": false
+      },
+      {
+        "text": "serii r\u00f3wno oddalonych od siebie kropek",
+        "correct": true
+      },
+      {
+        "text": "jasnego tr\u00f3jk\u0105ta w pozycji transpondera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transponder radarowy nadaje po pobudzeniu sygna\u0142:",
+    "options": [
+      {
+        "text": "Na sta\u0142ej cz\u0119stotliwo\u015bci 9,5 GHz",
+        "correct": false
+      },
+      {
+        "text": "w pa\u015bmie 92 -9,5 GHz",
+        "correct": true
+      },
+      {
+        "text": "w pa\u015bmie 9,0 -9,4 GHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 z transpondera radarowego widziany jest na ekranie radaru:",
+    "options": [
+      {
+        "text": "w postaci \u0142uk\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej \\| mili",
+        "correct": true
+      },
+      {
+        "text": "w postaci \u0142uk\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej 3 mil",
+        "correct": false
+      },
+      {
+        "text": "w postaci koncentrycznych okr\u0119g\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej 5 mil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sygna\u0142 z transpondera radarowego widziany jest na ekranie radaru:",
+    "options": [
+      {
+        "text": "w postaci koncentrycznych okr\u0119g\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej 1 mili",
+        "correct": false
+      },
+      {
+        "text": "w postaci koncentrycznych okr\u0119g\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej 0,1 mili",
+        "correct": true
+      },
+      {
+        "text": "w postaci koncentrycznych okr\u0119g\u00f3w przy odleg\u0142o\u015bci do rozbitk\u00f3w poni\u017cej 2 mil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pozycj\u0119 rozbitk\u00f3w na ekranie radaru wyznacza:",
+    "options": [
+      {
+        "text": "najdalsza kropka",
+        "correct": false
+      },
+      {
+        "text": "najbli\u017cszy \u0142uk",
+        "correct": true
+      },
+      {
+        "text": "najdalszy \u0142uk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pozycj\u0119 rozbitk\u00f3w na ekranie radaru wyznacza:",
+    "options": [
+      {
+        "text": "najdalsza kropka",
+        "correct": false
+      },
+      {
+        "text": "najdalszy \u0142uk",
+        "correct": false
+      },
+      {
+        "text": "najbli\u017csza kropka",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Transponder radarowy nadaje sw\u00f3j sygna\u0142 w pa\u015bmie 9,2 --- 9,5 GHz:",
+    "options": [
+      {
+        "text": "aby uzyska\u0107 wi\u0119ksz\u0105 odleg\u0142o\u015b\u0107 wykrywania",
+        "correct": false
+      },
+      {
+        "text": "poniewa\u017c trudno Jest utrzyma\u0107 sta\u0142\u0105 cz\u0119stotliwo\u015b\u0107",
+        "correct": false
+      },
+      {
+        "text": "by umo\u017cliwi\u0107 wsp\u00f3\u0142prac\u0119 z wszystkimi radarami w pa\u015bmie X",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Rozbitkowie mog\u0105 pozna\u0107, \u017ce sygna\u0142 z transpondera radarowego zosta\u0142 wykryty:",
+    "options": [
+      {
+        "text": "przez sygnalizacj\u0119 \u015bwietln\u0105 lub akustyczn\u0105 na transponderze",
+        "correct": true
+      },
+      {
+        "text": "poniewa\u017c zostan\u0105 powiadomieni przez przeno\u015bny radiotelefon VHF",
+        "correct": false
+      },
+      {
+        "text": "nie wiedz\u0105, czy zostali wykryci",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rozbitkowie mog\u0105 zwi\u0119kszy\u0107 zasi\u0119g transpondera radarowego przez:",
+    "options": [
+      {
+        "text": "podgrzanie transpondera w\u0142asnym cia\u0142em",
+        "correct": false
+      },
+      {
+        "text": "umieszczenie go Jak najwy\u017cej",
+        "correct": true
+      },
+      {
+        "text": "za\u0142\u0105czanie transpondera w cyklu: minuta pracy, minuta przerwy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Przy wykrywaniu transpondera mo\u017cna wyeliminowa\u0107 zak\u0142\u00f3cenia od opad\u00f3w przez:",
+    "options": [
+      {
+        "text": "zmian\u0119 zakresu radaru",
+        "correct": false
+      },
+      {
+        "text": "zmian\u0119 jasno\u015bci zobrazowania radaru",
+        "correct": false
+      },
+      {
+        "text": "odstrojenie odbiornika radaru",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W sytuacji, gdy na ekranie radaru widoczne s\u0105 \u0142uki, mo\u017cna przywr\u00f3ci\u0107 kropki przez:",
+    "options": [
+      {
+        "text": "zmian\u0119 jasno\u015bci zobrazowania",
+        "correct": false
+      },
+      {
+        "text": "odstrojenie radaru",
+        "correct": false
+      },
+      {
+        "text": "zmniejszenie wzmocnienia radaru",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W radiotelefonii u\u017cywana jest fala no\u015bna:",
+    "options": [
+      {
+        "text": "Prostok\u0105tna",
+        "correct": false
+      },
+      {
+        "text": "Tr\u00f3jk\u0105tna",
+        "correct": false
+      },
+      {
+        "text": "Sinusoidalna",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Amplituda fali no\u015bnej to:",
+    "options": [
+      {
+        "text": "maksymalna warto\u015b\u0107 napi\u0119cia wyra\u017cona w woltach",
+        "correct": true
+      },
+      {
+        "text": "skuteczna warto\u015b\u0107 napi\u0119cia wyra\u017cona w woltach",
+        "correct": false
+      },
+      {
+        "text": "\u015brednia warto\u015b\u0107 napi\u0119cia wyra\u017cona w woltach",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cz\u0119stotliwo\u015b\u0107 fali no\u015bnej zale\u017cy od jej:",
+    "options": [
+      {
+        "text": "Amplitudy",
+        "correct": false
+      },
+      {
+        "text": "Fazy",
+        "correct": false
+      },
+      {
+        "text": "D\u0142ugo\u015bci",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fala radiowa o cz\u0119stotliwo\u015bci 156 MHz ma dlugo\u015b\u0107:",
+    "options": [
+      {
+        "text": "oko\u0142o 20 metr\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 15 metr\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "oko\u0142o 2 metr\u00f3w",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fala radiowa o d\u0142ugo\u015bci 2 metr\u00f3w ma cz\u0119stotliwo\u015b\u0107:",
+    "options": [
+      {
+        "text": "150 MHz",
+        "correct": true
+      },
+      {
+        "text": "1500 MHz",
+        "correct": false
+      },
+      {
+        "text": "1500 kHz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". Pr\u0119dko\u015b\u0107 rozchodzenia si\u0119 fal to:",
+    "options": [
+      {
+        "text": "300 000 km/s",
+        "correct": true
+      },
+      {
+        "text": "300 000 m/s",
+        "correct": false
+      },
+      {
+        "text": "300 000 km/godz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W nadajnikach VHF radiotelefon\u00f3w morskich stosowana jest modulacja:",
+    "options": [
+      {
+        "text": "Amplitudy",
+        "correct": false
+      },
+      {
+        "text": "impulsowa",
+        "correct": false
+      },
+      {
+        "text": "cz\u0119stotliwo\u015bci / fazy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Emisja G3E to emisja:",
+    "options": [
+      {
+        "text": "Amplitudowa",
+        "correct": false
+      },
+      {
+        "text": "z modulacj\u0105 fazy",
+        "correct": true
+      },
+      {
+        "text": "Cyfrowa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Maksymalna moc statkowych radiotelefon\u00f3w VHF wynosi:",
+    "options": [
+      {
+        "text": "200W",
+        "correct": false
+      },
+      {
+        "text": "5W",
+        "correct": false
+      },
+      {
+        "text": "25 W",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Zmiana mocy radiotelefonu ma wp\u0142yw na:",
+    "options": [
+      {
+        "text": "s\u0142yszalno\u015b\u0107 dalekich stacji",
+        "correct": false
+      },
+      {
+        "text": "poziom szum\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "Jego zasi\u0119g",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Funkcja podw\u00f3jnego nas\u0142uchu w radiotelefonie VHF pozwala na:",
+    "options": [
+      {
+        "text": "jednoczesny nas\u0142uch dw\u00f3ch dowolnych kana\u0142\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "jednoczesny nas\u0142uch kana\u0142u 16 i 70",
+        "correct": false
+      },
+      {
+        "text": "Jednoczesny nas\u0142uch kana\u0142u 16 i dowolnego roboczego",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Prze\u0142\u0105czenie kana\u0142\u00f3w mi\u0119dzynarodowych na ameryka\u0144skie:",
+    "options": [
+      {
+        "text": "zmienia moc nadawania we wszystkich kana\u0142ach",
+        "correct": false
+      },
+      {
+        "text": "zmienia niekt\u00f3re kana\u0142y z simpleksowych na dupleksowe",
+        "correct": false
+      },
+      {
+        "text": "zmienia niekt\u00f3re kana\u0142y z dupleksowych na simpleksowe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Funkcja blokady szum\u00f3w odcina szumy i zak\u0142\u00f3cenia od g\u0142o\u015bnika poprzez:",
+    "options": [
+      {
+        "text": "blokad\u0119 wzmacniacza wysokiej cz\u0119stotliwo\u015bci dla s\u0142abych sygna\u0142\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "blokad\u0119 wzmacniacza cz\u0119stotliwo\u015bci akustycznej dla s\u0142abych sygna\u0142\u00f3w",
+        "correct": true
+      },
+      {
+        "text": "blokad\u0119 wzmacniacza wysokiej cz\u0119stotliwo\u015bci dla silnych sygna\u0142\u00f3w",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D\u0142ugo\u015b\u0107 anteny pr\u0119towej nadajnika jest przede wszystkim uzale\u017cniona od:",
+    "options": [
+      {
+        "text": "mocy nadajnika",
+        "correct": false
+      },
+      {
+        "text": "cz\u0119stotliwo\u015bci nadajnika",
+        "correct": true
+      },
+      {
+        "text": "amplitudy napi\u0119cia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regulacja g\u0142o\u015bno\u015bci odbiornika VHF odbywa si\u0119 przez::",
+    "options": [
+      {
+        "text": "zmian\u0119 wzmocnienia wzmacniacza akustycznego",
+        "correct": true
+      },
+      {
+        "text": "zastosowanie blokady szum\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "zmian\u0119 wzmocnienia wzmacniacza po\u015bredniej cz\u0119stotliwo\u015bci",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W akumulatorach kwasowych elektrolitem jest:",
+    "options": [
+      {
+        "text": "kwas siarkowy na\u0142adowania",
+        "correct": false
+      },
+      {
+        "text": "wodny roztw\u00f3r kwasu siarkowego",
+        "correct": true
+      },
+      {
+        "text": "wodny roztw\u00f3r kwasu solnego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W trakcie \u0142adowania akumulator\u00f3w kwasowych wydzielane s\u0105 gazy. Jest to:",
+    "options": [
+      {
+        "text": "Wod\u00f3r",
+        "correct": true
+      },
+      {
+        "text": "Chlor",
+        "correct": false
+      },
+      {
+        "text": "Azot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na zaciskach kwasowego akumulatora statkowego o napi\u0119ciu znamionowym 24V zmierzone napi\u0119cie wynosi 21 V. Oznacza to, \u017ce:",
+    "options": [
+      {
+        "text": "akumulator jest ca\u0142kowicie roz\u0142adowany",
+        "correct": true
+      },
+      {
+        "text": "akumulator jest cz\u0119\u015bciowo roz\u0142adowany",
+        "correct": false
+      },
+      {
+        "text": "akumulator jest na\u0142adowany",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Akumulator\u00f3w kwasowych nie wolno wy\u0142adowywa\u0107 poni\u017cej dopuszczalnego napi\u0119cia ko\u0144cowego kt\u00f3re wynosi:",
+    "options": [
+      {
+        "text": "1,75 V/ogniwo",
+        "correct": false
+      },
+      {
+        "text": "1,95 V/ogniwo",
+        "correct": false
+      },
+      {
+        "text": "1,6 V/ogniwo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "G\u0119sto\u015b\u0107 elektrolitu w akumulatorach kwasowych jest miar\u0105 na\u0142adowania akumulatora. Zmierzona g\u0119sto\u015b\u0107 elektrolitu zwyk\u0142ego akumulatora kwasowego w temperaturze 20^o^ C wynosi 1,28 g/cm\\*",
+    "options": [
+      {
+        "text": "akumulator jest ca\u0142kowicie roz\u0142adowany",
+        "correct": false
+      },
+      {
+        "text": "akumulator jest cz\u0119\u015bciowo roz\u0142adowany",
+        "correct": false
+      },
+      {
+        "text": "Akumulator jest ca\u0142kowicie na\u0142adowany",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "G\u0119sto\u015b\u0107 elektrolitu w akumulatorach kwasowych jest miar\u0105 na\u0142adowania akumulatora. Zmierzona g\u0119sto\u015b\u0107 elektrolitu zwyk\u0142ego akumulatora kwasowego w temperaturze 20\u00b0 C wynosi 1,10 g/cm\u00b3. Oznacza to, \u017ce:",
+    "options": [
+      {
+        "text": "akumulator jest ca\u0142kowicie roz\u0142adowany",
+        "correct": true
+      },
+      {
+        "text": "akumulator jest cz\u0119\u015bciowo roz\u0142adowany",
+        "correct": false
+      },
+      {
+        "text": "akumulator jest ca\u0142kowicie na\u0142adowany",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wraz ze spadkiem temperatury pojemno\u015b\u0107 akumulator\u00f3w kwasowych:",
+    "options": [
+      {
+        "text": "nie zmienia si\u0119",
+        "correct": false
+      },
+      {
+        "text": "spada o 0,5-1,0% na stopie\u0144 C",
+        "correct": true
+      },
+      {
+        "text": "wzrasta o oko\u0142o 1% na stopie\u0144 C",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "G\u0119sto\u015b\u0107 elektrolitu ca\u0142kowicie na\u0142adowanego akumulatora kwasowego w tropiku jest:",
+    "options": [
+      {
+        "text": "mniejsza ni\u017c g\u0119sto\u015b\u0107 elektrolitu w temperaturze 20\u00b0 C i wynosi 1.23 g/cm\u00b3",
+        "correct": true
+      },
+      {
+        "text": "mniejsza ni\u017c g\u0119sto\u015b\u0107 elektrolitu w temperaturze 20\u00b0 C i wynosi 1,15 g/cm\u00b3",
+        "correct": false
+      },
+      {
+        "text": "taka sama jak w strefie umiarkowanej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Akumulatory kwasowe w przypadku wy\u0142\u0105czenia z eksploatacji powinny by\u0107 przechowywane w stanie:",
+    "options": [
+      {
+        "text": "Na\u0142adowanym",
+        "correct": true
+      },
+      {
+        "text": "ca\u0142kowicie roz\u0142adowanym",
+        "correct": false
+      },
+      {
+        "text": "na\u0142adowanym do 50% pojemno\u015bci znamionowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W trakcie eksploatacji akumulator\u00f3w kwasowych zachodzi konieczno\u015b\u0107 uzupe\u0142niania elektrolitu. Uzupe\u0142nianie elektrolitu polega na dolewaniu do poszczeg\u00f3lnych cel akumulatora:",
+    "options": [
+      {
+        "text": "kwasu siarkowego",
+        "correct": false
+      },
+      {
+        "text": "wody destylowanej",
+        "correct": true
+      },
+      {
+        "text": "wody",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W trakcie niew\u0142a\u015bciwej eksploatacji akumulator\u00f3w kwasowych nast\u0119puje ich zasiarczenie. Kt\u00f3re z poni\u017cszych zjawisk \u015bwiadcz\u0105 o zasiarczeniu akumulatora:",
+    "options": [
+      {
+        "text": "niski poziom elektrolitu",
+        "correct": false
+      },
+      {
+        "text": "silne grzanie elektrolitu w trakcie \u0142adowania",
+        "correct": true
+      },
+      {
+        "text": "nalot na zaciskach akumulatora",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transponder AIS SART wsp\u00f3\u0142pracuje z:",
+    "options": [
+      {
+        "text": "wszystkimi radarami pracuj\u0105cymi w pa\u015bmie X",
+        "correct": false
+      },
+      {
+        "text": "transponderami AIS znajduj\u0105cymi si\u0119 na statkach ",
+        "correct": true
+      },
+      {
+        "text": "wszystkimi radarami w pa\u015bmie S",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jak jest minimalny zasi\u0119g wykrycia transpondera AIS SART?",
+    "options": [
+      {
+        "text": "Minimum 15 NM przez jednostk\u0119 w kt\u00f3rej antena jest zamontowana 15 m npm.",
+        "correct": false
+      },
+      {
+        "text": "Minimum 5 NM przez jednostk\u0119 w kt\u00f3rej antena jest zamontowana 15 m npm.",
+        "correct": false
+      },
+      {
+        "text": "Minimum 10 NM przez jednostk\u0119 w kt\u00f3rej antena jest zamontowana 15 m npm.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Co oznaczaj\u0105 cyfry 09 w numerze identyfikacyjnym transpondera AIS SART 970091 129?",
+    "options": [
+      {
+        "text": "Kod identyfikacyjny producenta transpondera.",
+        "correct": false
+      },
+      {
+        "text": "Przynale\u017cno\u015b\u0107 do danego rejonu geograficznego.",
+        "correct": false
+      },
+      {
+        "text": "Numer identyfikacyjny pa\u0144stwa bandery",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jaki jest minimalny zasi\u0119g wykrycia transpondera AIS SART przez samolot na wysoko\u015bci 1000 m?",
+    "options": [
+      {
+        "text": "50NM",
+        "correct": true
+      },
+      {
+        "text": "powy\u017cej 100 NM",
+        "correct": false
+      },
+      {
+        "text": "30NM",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3re z poni\u017cszych informacji s\u0105 zakodowane w transponderze AIS SART?",
+    "options": [
+      {
+        "text": "MMSI statku",
+        "correct": false
+      },
+      {
+        "text": "CALL SIGN i MMSI statku",
+        "correct": false
+      },
+      {
+        "text": "9-cio cyfrowy numer identyfikacyjny transpondera",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3re ze zda\u0144 jest prawdziwe?",
+    "options": [
+      {
+        "text": "Transponder AIS SART nie ma nadanego numeru identyfikacyjnego.",
+        "correct": false
+      },
+      {
+        "text": "Numer identyfikacyjny transpondera jest taki sam jak numer MMSI statku, na kt\u00f3rym si\u0119 znajduje transponder.",
+        "correct": false
+      },
+      {
+        "text": "Numer identyfikacyjny transpondera AIS SART zawsze rozpoczyna si\u0119 ci\u0105giem cyfr 970.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jaki symbol zosta\u0142 ustalony przez IMO dla wskazania transpondera AIS SART na mapie elektronicznej?",
+    "options": [
+      {
+        "text": "Migaj\u0105cy statek w kolorze czerwonym.",
+        "correct": false
+      },
+      {
+        "text": "Okr\u0105g ze skrzy\u017cowanymi w \u015brodku liniami ci\u0105g\u0142ymi w kolorze czerwonym.",
+        "correct": true
+      },
+      {
+        "text": "Kwadrat ze skrzy\u017cowanymi w \u015brodku liniami ci\u0105g\u0142ymi w kolorze czerwonym.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Baterie przeznaczone do zasilania awaryjnych przeno\u015bnych radiotelefon\u00f3w VHF:",
+    "options": [
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 8 godzin pracy radiotelefonu z pe\u0142n\u0105 moc\u0105 w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund odbi\u00f3r bez blokad szum\u00f3w, 48 sekund odbi\u00f3r z blokad\u0105 szum\u00f3w",
+        "correct": true
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 48 godzin pracy radiotelefonu z pe\u0142n\u0105 moc\u0105 w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund odbi\u00f3r bez blokady szum\u00f3w, 48 sekund odbi\u00f3r z blokada szum\u00f3w)",
+        "correct": false
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 8 godzin pracy radiotelefonu z pe\u0142n\u0105 moc\u0105",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Baterie przeznaczone do zasilania awaryjnych transponder\u00f3w radarowych (SART):",
+    "options": [
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105ca co najmniej 96 godzin pracy w stanie czuwania i nast\u0119pnie umo\u017cliwia\u0107 nadawanie sygna\u0142\u00f3w przez 8 godzin",
+        "correct": true
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 96 godzin pracy",
+        "correct": false
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 48 godzin pracy w stanie czuwania i nast\u0119pnie umo\u017cliwia\u0107 nadawanie sygna\u0142\u00f3w przez 8 godzin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Baterie przeznaczone do zasilania radiop\u0142aw awaryjnych:",
+    "options": [
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 48 godzin pracy, w tym nadawania sygna\u0142\u00f3w do lokalizacji i zasilanie \u015bwiat\u0142a b\u0142yskowego",
+        "correct": true
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 96 godzin pracy, w tym nadawania sygna\u0142\u00f3w do lokalizacji i zasilanie \u015bwiat\u0142a b\u0142yskowego",
+        "correct": false
+      },
+      {
+        "text": "powinny posiada\u0107 pojemno\u015b\u0107 zapewniaj\u0105c\u0105 co najmniej 12 godzin pracy, w tym nadawania sygna\u0142\u00f3w do lokalizacji i zasilanie \u015bwiat\u0142a b\u0142yskowego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kt\u00f3ry z wymienionych wzor\u00f3w okre\u015bla zale\u017cno\u015b\u0107 pomi\u0119dzy pr\u0119dko\u015bci\u0105 propagacji fali (c \\[m/s\\]), jej cz\u0119stotliwo\u015bci\u0105 (f \\[Hz\\]) i d\u0142ugo\u015bci\u0105 (\u03bb \\|m\\]):",
+    "options": [
+      {
+        "text": "f=c \\* \u03bb",
+        "correct": false
+      },
+      {
+        "text": "F = \u03bb/c",
+        "correct": false
+      },
+      {
+        "text": "f = c/\u03bb",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pr\u0119dko\u015b\u0107 rozchodzenia si\u0119 fali elektromagnetycznej w wolnej przestrzeni wynosi:",
+    "options": [
+      {
+        "text": "340m/s",
+        "correct": false
+      },
+      {
+        "text": "300 km/s",
+        "correct": false
+      },
+      {
+        "text": "300.000.000 m/s ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "W czasie 5 us fala elektromagnetyczna przebywa dystans:",
+    "options": [
+      {
+        "text": "3 km",
+        "correct": false
+      },
+      {
+        "text": "1,5 km ",
+        "correct": true
+      },
+      {
+        "text": "750 m",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest d\u0142ugo\u015b\u0107 fali w wolnej przestrzeni, je\u017celi jej cz\u0119stotliwo\u015b\u0107 wynosi 150 MHz:",
+    "options": [
+      {
+        "text": "2m ",
+        "correct": true
+      },
+      {
+        "text": "20m",
+        "correct": false
+      },
+      {
+        "text": "200 m",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Od jakich czynnik\u00f3w zale\u017cy zasi\u0119g \u0142\u0105czno\u015bci na falach VHF:",
+    "options": [
+      {
+        "text": "od wysoko\u015bci anteny nadawczej i odbiorczej ",
+        "correct": true
+      },
+      {
+        "text": "od pory doby",
+        "correct": false
+      },
+      {
+        "text": "od szeroko\u015bci geograficznej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi antena nadajnika radiotelefonu VHF znajduje si\u0119 na maszcie o wysoko\u015bci 100 metr\u00f3w to zasi\u0119g stacji wynosi:",
+    "options": [
+      {
+        "text": "10 km",
+        "correct": false
+      },
+      {
+        "text": "40km",
+        "correct": true
+      },
+      {
+        "text": "100 km",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi antena nadajnika radiotelefonu VHF znajduje si\u0119 na maszcie o wysko\u015bci 64 metr\u00f3w to zasi\u0119g stacji wynosi:",
+    "options": [
+      {
+        "text": "16 km",
+        "correct": false
+      },
+      {
+        "text": "32km",
+        "correct": true
+      },
+      {
+        "text": "64 km",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Je\u017celi antena nadajnika radiotelefonu VHF znajduje si\u0119 na maszcie o wysoko\u015bci 100 metr\u00f3w, za\u015b antena odbiornika usytuowana jest na wysoko\u015bci 25 m to zasi\u0119g odbioru wynosi:",
+    "options": [
+      {
+        "text": "30 km",
+        "correct": false
+      },
+      {
+        "text": "60km",
+        "correct": true
+      },
+      {
+        "text": "90 km",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W statkowych radiotelefonach VHF stosowane s\u0105:",
+    "options": [
+      {
+        "text": "pionowe dipole o d\u0142ugo\u015bci 0,25\u03bb ",
+        "correct": true
+      },
+      {
+        "text": "anteny w postaci pionowej linki o d\u0142ugo\u015bci kilku metr\u00f3w",
+        "correct": false
+      },
+      {
+        "text": "anteny typu Yagi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Anten\u0119 radiotelefonu VHF nale\u017cy zamontowa\u0107:",
+    "options": [
+      {
+        "text": "mo\u017cliwie najbli\u017cej radiotelefonu",
+        "correct": false
+      },
+      {
+        "text": "w miejscu os\u0142oni\u0119tym od wiatru i wody",
+        "correct": false
+      },
+      {
+        "text": "mo\u017cliwie najwy\u017cej z dala od innych anten",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Zbyt bliskie ustawienie anteny radiotelefonu VHF w pobli\u017cu metalowych konstrukcji mo\u017ce spowodowa\u0107:",
+    "options": [
+      {
+        "text": "zmian\u0119 charakterystyki promieniowania anteny",
+        "correct": true
+      },
+      {
+        "text": "uszkodzenie anteny",
+        "correct": false
+      },
+      {
+        "text": "zmian\u0119 polaryzacji promieniowanej fali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W odbiornikach NAVTEX s\u0105 stosowane:",
+    "options": [
+      {
+        "text": "2-4 metrowe anteny pr\u0119towe (pionowe)",
+        "correct": true
+      },
+      {
+        "text": "anteny linkowe typu \u201eI\" lub \u201eT\"",
+        "correct": false
+      },
+      {
+        "text": "anteny w postaci kilku lub kilkunastometrowego masztu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dook\u00f3ln\u0105 charakterystyk\u0119 promieniowania (w p\u0142aszczy\u017anie poziomej) maj\u0105 anteny:",
+    "options": [
+      {
+        "text": "pr\u0119towe (pionowe)",
+        "correct": true
+      },
+      {
+        "text": "linkowe typu \u201eT\" lub \u201eT\"",
+        "correct": false
+      },
+      {
+        "text": "typu Yagi",
+        "correct": false
+      }
+    ]
+  }
+]

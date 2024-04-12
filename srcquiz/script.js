@@ -6,10 +6,10 @@ const questionEl = document.getElementById('question');
 const optionsEl = document.getElementById('options');
 const nextBtn = document.getElementById('next-btn');
 const backBtn = document.getElementById('back-btn');
-const questionNumberEl = document.getElementById('question-number');
+const answeredQuestionsValueEl = document.getElementById('answered-questions-value');
 const scoreValueEl = document.getElementById('score-value');
 const refreshBtn = document.getElementById('refresh-btn');
-
+const categoryEl = document.getElementById('category');
 
 nextBtn.addEventListener('click', () => {
   currentQuestion++;
@@ -36,9 +36,9 @@ function showQuestion() {
   const q = quizData[currentQuestion];
   questionEl.textContent = q.question;
 
-  // Update question number
-  questionNumberEl.textContent = `Question ${currentQuestion + 1}`;
-
+  answeredQuestionsValueEl.textContent = `${currentQuestion + 1}`;
+  categoryEl.textContent = `${q.number}: ${q.category}`;
+  
   optionsEl.innerHTML = '';
   q.options.forEach(option => {
     const optionEl = document.createElement('button');

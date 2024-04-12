@@ -3,21 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SRC Quiz App</title>
+  <title>Quiz App</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="container"> <!-- Container to set constant width -->
+  <div class="container">
     <div id="quiz-container">
-      <div id="question-number" class="question-number"></div>
-      <h1 id="question"></h1>
+      <h3 id="question"></h1>
       <div id="options"></div>
       <div id="button-container">
         <button id="back-btn">Back</button>
+         <div id="answered-questions">Question: <span id="answered-questions-value">0</span></div>
         <button id="next-btn">Next</button>
       </div>
-      <div id="score">Score: <span id="score-value">0</span></div>
-      <button id="refresh-btn">Reset Quiz</button> <!-- Refresh button -->
+      <div id="category"></div>
+      <div id="bottom-container">
+        <button id="refresh-btn">Refresh Quiz</button>
+        <div id="score">Score: <span id="score-value">0</span></div>
+      </div>
     </div>
   </div>
 

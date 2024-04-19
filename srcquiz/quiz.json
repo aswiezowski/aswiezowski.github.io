@@ -5322,7 +5322,7 @@
   {
     "number": 107,
     "category": "OGÓLNA WIEDZA O PODSYSTEMACH I URZĄDZENIACH RADIOWYCH GMDSS, STOSOWANYCH NA OBSZARZE MORZA A1",
-    "question": ". Prędkość rozchodzenia się fal to:",
+    "question": "Prędkość rozchodzenia się fal to:",
     "options": [
       {
         "text": "300 000 km/s",
@@ -5333,7 +5333,7 @@
         "correct": false
       },
       {
-        "text": "300 000 km/godz.",
+        "text": "300 000 km/godz",
         "correct": false
       }
     ]
@@ -5493,7 +5493,7 @@
   {
     "number": 116,
     "category": "OGÓLNA WIEDZA O PODSYSTEMACH I URZĄDZENIACH RADIOWYCH GMDSS, STOSOWANYCH NA OBSZARZE MORZA A1",
-    "question": "Regulacja głośności odbiornika VHF odbywa się przez::",
+    "question": "Regulacja głośności odbiornika VHF odbywa się przez:",
     "options": [
       {
         "text": "zmianę wzmocnienia wzmacniacza akustycznego",
@@ -5599,7 +5599,7 @@
         "correct": false
       },
       {
-        "text": "Akumulator jest całkowicie naładowany",
+        "text": "akumulator jest całkowicie naładowany",
         "correct": true
       }
     ]

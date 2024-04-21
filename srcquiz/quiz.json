@@ -4391,7 +4391,7 @@
   {
     "number": 58,
     "category": "OGÓLNA WIEDZA O PODSYSTEMACH I URZĄDZENIACH RADIOWYCH GMDSS, STOSOWANYCH NA OBSZARZE MORZA A1",
-    "question": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po orbitach polarnych. Które z poniższych stwierdzeńjest prawdziwe:",
+    "question": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po orbitach polarnych. Które z poniższych stwierdzeń jest prawdziwe:",
     "options": [
       {
         "text": "wysokość orbit polarnych wynosi około 3000 km",
@@ -4869,7 +4869,7 @@
     "question": "W przypadku uruchomienia radiopławy w sytuacji gdy nie ma zagrożenia, należy:",
     "options": [
       {
-        "text": "natychmiast wyłączyć radiopławę ,",
+        "text": "natychmiast wyłączyć radiopławę",
         "correct": false
       },
       {
